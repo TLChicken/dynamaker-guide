@@ -1,9 +1,10 @@
 
 # Niche Controls
 
-## Confusing until you try it out.
+## Confusing until you Try It Out.
 
 Keyboard:
+
 **C / V** : Changes the fraction of a bar of the song (based on its BPM) that the notes you are going to place down are snapped to. I recommend pressing C 4 times (set to 1/8 of a bar) or 5 times (set to 1/4 of a bar) after loading the song so it is easier to place down notes according to the beat.
 
 
