@@ -12,7 +12,7 @@ Use *Google Chrome* to visit the website.
 Press "F" to go into Full-Screen mode. (Might have to press F11 as well.)
 
 
-###### If the website does not fit your screen:
+**If the website does not fit your screen:**
 
 Set the **Zoom** of the website to 100%. 
 	- (Setting is in the Chrome Dropdown menu at the top right, below the X close window button.)
@@ -22,7 +22,8 @@ If it still does not fit, try other zoom values.
 ## Step 2: Load your music (and map) files
 
 If you are creating a new map, only load the music file, then press **New Map**.
-	- Press Audio/Video Browse to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing.
+	
+  - Press *Audio/Video Browse* to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing.
 
 If you are editing an existing map, load both the map file and audio file.
 
@@ -31,14 +32,14 @@ If you are editing an existing map, load both the map file and audio file.
 
 Find the BPM of the song from other sources (eg Osu!), then enter the offset if you know what offset it has, else leave it as 0.
 
-	- Beat Per Minute is the BPM of the song.
-	- Bars Per Minute is the BPM divided by the Time signature of the song (Number of Beats in 1 Bar)
+  - Beat Per Minute is the BPM of the song.
+  - Bars Per Minute is the BPM divided by the Time signature of the song (Number of Beats in 1 Bar)
 
 ##### Left Side and Right Side Settings:
 
-	MIXER: Side has Sliding Bar and can only have Slide Notes
-	PAD: Side can only contain Tap and Hold Notes
-	MULTI: Side can contain all 3 types of notes.
+  - MIXER: Side has Sliding Bar and can only have Slide Notes
+  - PAD: Side can only contain Tap and Hold Notes
+  - MULTI: Side can contain all 3 types of notes.
 
 
 ## Step 4: Create Map
