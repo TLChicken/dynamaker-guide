@@ -53,7 +53,9 @@ The Active side is the side that you are editing. You use it to choose what side
 **1 / 2 / 3** : Selects Type of Note
 
 1: Tap
+
 2: Slide
+
 3: Hold
 
 
