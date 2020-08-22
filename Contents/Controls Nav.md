@@ -5,6 +5,7 @@
 ## Navigation
 
 Keyboard:
+
 **A / D** : Move Forwards / Backwards in song by 1 second.
 
 **Shift + A / Shift + D** : Move Forwards / Backwards in song by 0.01 seconds.
@@ -29,11 +30,13 @@ _BUG: Do not press S anymore when speed is 0.1 or it will become 0.0 and crash t
 ## Charting
 
 Mouse:
+
 **Left Click**: When in placing down notes mode (Press 1/2/3 on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note.
 
 **Right Click** : Opens the Right Click Menu. (Right Click Menu Section To be Added.)
 
 Keyboard:
+
 **Down / Left / Right Arrows** : Turns on/off the note guidelines for the respective sides. 
 - Press once to have it 50% transparent.
 - Press second time to make it opaque.
@@ -47,7 +50,7 @@ Keyboard:
 The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking.
 
 
-**1/2/3** : Selects Type of Note
+**1 / 2 / 3** : Selects Type of Note
 
 1: Tap
 2: Slide
@@ -69,7 +72,7 @@ After selecting those notes you can right click to **Delete** or copy them. ( *I
 
 
 
-# What do the random stuff around your note mean when in placing down notes mode:
+# What do the Random Stuff around your Note mean:
 
 **Purple Line** : The timing of your note if placed on other sides of the chart.
 - Use this to judge the timing of the current note you are placing to the other notes coming down on different sides.
