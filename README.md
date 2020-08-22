@@ -19,4 +19,5 @@ I had mostly written 1 year ago on 7 June 2019 for one of my friends, but today 
 **[Special Controls](../Contents/Special Controls)**
 
 
+Thank you.
 
