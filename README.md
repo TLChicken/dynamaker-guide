@@ -5,7 +5,7 @@ Dynamaker is a fan-made Dynamix Chart Editor tool that is a god-send because it 
 
 This tool has many controls and features, although there are no clear instructions on how to use it on the page itself, it can get quite familiar and easy to use the more you use it. This unofficial guide aims to help you to familiarise yourself with Dynamaker's features and controls.
 
-I had mostly written 1 year ago on 7 June 2019 for one of my friends, but today I updated it slightly so the wall of text is more readable, the original wall of text made last year can still be accessed in the [relavant document](/Contents/Original%20v1.0.txt).
+I had mostly written 1 year ago on 7 June 2019 for one of my friends, but today I updated it slightly so the wall of text is more readable, the original wall of text made last year can still be accessed in the [relavant document](/Contents/Old%20Guide%20v1.0.txt).
 
 
 ## Contents:
