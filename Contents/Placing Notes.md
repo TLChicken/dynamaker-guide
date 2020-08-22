@@ -2,11 +2,14 @@
 # Placing Down Some Notes!
 
 Press **1** to select *Tap Notes*, then **Left Click** to place down the note at where your mouse is at. 
+
 While placing notes down, hold down **Left Click** to adjust the size of the note.
 To delete notes, press **4** to go into **Edit Mode**, then drag **Left Click** over the notes that you want to delete to select them, then press **Del** or use the **Right Click** menu to delete them.
 Note that only notes in the side that yo are editing (the **Active Side**) will be selected and deleted.
 
+
 Press **2** to place down *Slide notes*, the same way as *Tap Notes*.
+
 
 Press **3** to place down *Hold Notes*. 
 You will place down the start of the hold note first, then scroll to the part of the song you want to hold note to end, then **Left Click** again to place down the end of the hold note.
@@ -18,6 +21,7 @@ Be sure to see the [Navigation Controls](Controls%20Nav) Section so you know how
 
 
 
+
 # Niche Stuff Section
 
 
@@ -25,9 +29,9 @@ Be sure to see the [Navigation Controls](Controls%20Nav) Section so you know how
 
 This is a sample representation of a note:
 
-*Bar No. + x/y*
-        <=============>
-*Horizontal Value*   *Note Size*
+        *Bar No. + x/y*
+                <=============>
+        *Horizontal Value*   *Note Size*
 
 **ATTENTION QUITE CONFUSING AT FIRST, DONT REALLY HAVE TO KNOW:**
 
