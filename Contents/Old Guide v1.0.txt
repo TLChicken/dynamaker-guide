@@ -1,0 +1,110 @@
+
+*OmegaPi Dynamix Chart Editor Guide by TLChicken v1.0*:
+(Also for my future reference so I don’t learn the whole thing again)
+
+*STARTING UP THE WEBSITE*
+
+*Set Zoom of website to 100%*
+Load the music file and map file
+Then Press *F* for full screen
+
+{ _For new song only without map:_ Find the BPM from other sources and set properly then set offset using O (Makes notes come later) / P (Makes notes come earlier relative to song) }
+
+Press Down arrow key once to bring up timing reference. Press ‘C’ 4 times so that notes placed down are snapped to 1/8th of a bar.
+
+There is a info panel in bottom right corner after going into editing mode (press A or D to scroll the song) Hold down H for more info.
+
+
+*TO SAVE YOUR CHART*
+1. Right Click
+2. Click Save as XML to only save the chart file. OR Click Save as .DY to save in a format that u can load and play in your phone.
+
+*REDUCE LAG*
+1. Right Click
+2. Click Particles ON to turn it off
+
+*SET BACKGROUND*
+1. Right Click
+2. Press Background
+
+
+*CONTROLS:*
+
+*Charting (Mouse) *:
+
+*Left Click*: When in placing down notes mode (Press 1/2/3 on top of keyboard) it will place down a note when you release your left click. While holding down left click you can move left and right to adjust the size of the note.
+
+*What do the stuff around your note mean when in placing down notes mode* :
+
+*Purple Line*: The timing of your note if placed on other sides of the chart
+
+*Confusing Numbers Around the Note* : See bottom part of guide in niche section as this is very confusing.
+
+
+
+
+*Navigation*
+
+*A / D* : Move forward or backward in song by 1 second
+*Shift + A / Shift + D* : Move forward or backward in song by 0.01 seconds
+
+*Q / E* : Sets speed at which notes come down (equivalent to slider in actual game when starting a song)
+
+*W / S* : Sets speed of song. (Slow down to align the notes to the Beats of the song more easily)
+_BUG: Do not press S anymore when speed is 0.1 or it will become 0.0 and crash the chart maker. _
+
+*O/P* : Sets offset. O causes notes to come down later than before.
+
+
+*R* : Goes into Play Song mode and plays the chart on auto play from 0s
+
+*Space* : Play/Pause song.
+
+*Editing Chart Controls*
+
+*Down / Left / Right Arrows* : Brings up guidelines for note timing snapping
+
+!!Quite confusing parts below —> 
+
+*Up Arrow*: Switches the side you are editing. *Direction: Main —> Left —> Right*
+
+*C / V* : Changes the fraction of a bar of the song (based on its BPM) that the notes you are going to place down are snapped to. I recommend pressing C 4 times (set to 1/8 of a bar) or 5 times (set to 1/4 of a bar) after loading the song so it is easier to place down notes according to the beat.
+
+*1/2/3* : Selects Tap / Slide / Hold to place down respectively
+
+*4*: Goes into edit notes mode. When u mouse over or near a note there will be a white square at the middle of it. Double click to select it and place it somewhere else.
+You can select several notes at once by dragging left click such that the box formed overlays the notes. (Only notes in the current side that you are editing will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side)
+After selecting those notes you can right click to *delete* or copy them. ( *I haven’t figured out how to paste the notes* )
+
+
+
+*Niche:*
+
+~*Hold down Z*: Notes you place down while holding down Z are not snapped according to timing.~ (Not working currently for me)
+
+*Hold down X* : Notes that you place down while holding down X are not horizontally snapped to 1 decimal place.
+
+
+
+*Confusing Numbers Around the Note* : (Referenced from above)
+
+*Bar No. + x/y*
+        <=============>
+*Horizontal Value*   *Note Size*
+
+*ATTENTION VERY CONFUSING:*
+*Bar No. + x/y*: Bar No. is the bar of the song that you are about to place the note in. Exact timing depends on BPM of the song. (Music Theory)
+y is the number of sub intervals of the bar that the note can be snapped to (adjusted by C/V, recommend 4 or 8, use 12 to place at 1/3 of bars)
+
+The more intervals allowed to be snapped to means the shorter amount of time between each sub interval.
+
+For a song with 4/4 time signature you can set y=4 then place down notes on 1/4, 2/4, 3/4, 4/4(not shown in editor) to have all 4 Beats in the bar to have notes on them. Or you can set y=16 and place notes at 4/16, 8/16, 12/16, 16/16 and achieve the same result. But having y at 16 means you can place more notes in between the timings of the 4 Beats in the bar
+
+x/y is like which sub interval of the bar are u placing the note in, it represents the timing of the song that you are placing the note
+
+
+*Squares at middle of notes and what it represents* :
+Next time I write
+
+
+*HYINTS*: Save your chart regularly using the right click menu
