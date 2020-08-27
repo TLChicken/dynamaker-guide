@@ -15,4 +15,14 @@ To overcome this, press **V** until you are able to put your note at the desired
 **Hold Down X** : Notes that you place down while holding down X are not horizontally snapped to 1 decimal place. (Can put anywhere along horizontal axis.)
 
 
+# Other Controls
+
+### Only in Dynaremix (Older Version of the Chart Maker / Other dynaremixv3 Version)
+
+Keyboard:
+
+**L** : Changes the graphics of notes to become simple lines. (Reduces Lag)
+
+
+
 
