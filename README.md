@@ -12,7 +12,7 @@ I had mostly written 1 year ago on 7 June 2019 for one of my friends, but today 
 
 **[Getting Started](/Contents/Getting%20Started.md)**
 
-**[Controls - Navigation](/Contents/Controls%20Nav.md)**
+**[Controls - Navigation and Charting](/Contents/Controls%20Nav.md)**
 
 **[Placing Notes](/Contents/Placing%20Notes.md)**
 
