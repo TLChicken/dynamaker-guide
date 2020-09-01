@@ -51,9 +51,26 @@ x/y is like which sub interval of the bar are u placing the note in, it represen
 
 
 ### Multi-color Squares at middle of notes and what it represents:
-Next time I write
+Updating in the future.
 
 
 **HYINTS**: Save your chart regularly using the right click menu so as to not lose progress
 
+
+
+
+# Troubleshooting
+
+If you encounter any bug while charting and your screen turns black, do the following steps to recover your chart and not waste the past few hours of work you put into it!
+_(For example: When you press **S** too many times until Song Speed becomes 0 in the dynaremmixv3 chart maker.)_
+
+#### Steps:
+1. Press "F12"
+2. In the Dev Window that pops up, press the "Console" tab at the top
+3. In the console type save()
+Then you can choose where to save your map xml file in the pop up window even though the screen is black, after that just reload dynaremix and then reopen your newly downloaded map xml file and breathe a sigh of relief.
+
+
+
+[Back to Main Page](https://github.com/TLChicken/dynamaker-guide)
 
