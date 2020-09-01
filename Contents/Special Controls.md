@@ -34,6 +34,9 @@ To overcome this, press **V** until you are able to put your note at the desired
 **Hold Down X** : Notes that you place down while holding down **X** are not horizontally snapped to 1 decimal place. (Can put anywhere along horizontal axis.)
 
 
+**Shift + R** : Set speed of song to 0.1, speed of the chart to 1.0, and the note snap fraction to 1/32. (Not sure who uses this.)
+
+
 # Other Controls
 
 ### Only in Dynaremix (Older Version of the Chart Maker / Other dynaremixv3 Version)
@@ -43,6 +46,8 @@ Keyboard:
 **L** : Changes the graphics of notes to become simple lines. (Reduces Lag)
 
 **B** : Song goes in reverse.
+
+
 
 
 
