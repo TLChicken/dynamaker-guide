@@ -19,12 +19,16 @@ Keyboard:
 - Set it slower to make it easier to set the song's offset or align notes to the rhythm more easily.
 
 _BUG: Do not press S anymore when speed is 0.1 or it will become 0.0 and crash the chart maker._
+_If you encounter the bug and want to recover your chart, follow the steps in the Troubleshooting section here: [Troubleshooting](Placing%20Notes.md#Troubleshooting)_
 
 **O / P** : Adjusts the offset of the song. O causes notes to come down later than before, and vice versa for P.
 
-**R / Enter** : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.
+**Enter** : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.
+
+**R / M** : Go to the beginning of the chart and plays it. (No Scores and Combo displayed.)
 
 **Space** : Play / Pauses the song.
+
 
 
 ## Charting
@@ -80,4 +84,7 @@ After selecting those notes you can right click to **Delete** or copy them. ( *I
 - Use this to judge the timing of the current note you are placing to the other notes coming down on different sides.
 
 **Confusing Numbers Around the Note** : See bottom part of guide in [Placing Notes](Placing%20Notes) section as this is very confusing.
+
+
+[Back to Main Page](https://github.com/TLChicken/dynamaker-guide)
 
