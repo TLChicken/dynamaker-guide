@@ -89,7 +89,7 @@ Save your chart regularly using the right click menu so as to not lose progress
 
 
 
-# Troubleshooting
+<h1 id="troubleshooting">Troubleshooting</h1>
 
 If you encounter any bug while charting and your screen turns black, do the following steps to recover your chart and not waste the past few hours of work you put into it!
 _(For example: When you press **S** too many times until Song Speed becomes 0 in the dynaremixv3 chart maker.)_
