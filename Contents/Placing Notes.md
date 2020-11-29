@@ -14,7 +14,9 @@ Press **2** to place down *Slide notes*, the same way as *Tap Notes*.
 Press **3** to place down *Hold Notes*. 
 You will place down the start of the hold note first, then scroll to the part of the song you want to hold note to end, then **Left Click** again to place down the end of the hold note.
 
-Press **Up Arrow** to change the **Active Side**, which is the side that you are placing notes on.
+Press **Up Arrow** to change the **Active Side**, which is the side that you are placing notes on. The **Active Side** changes in a clockwise direction, from Main to Left to Right and then back.
+
+Press **4** to go into **EDIT Mode** if you need to select and move or delete notes that are already placed. (More in Navigation Controls)
 
 
 Be sure to see the [Navigation Controls](Controls%20Nav) Section so you know how to move around the song.
@@ -46,15 +48,43 @@ For a song with 4/4 time signature you can set y=4 then place down notes on 1/4,
 x/y is like which sub interval of the bar are u placing the note in, it represents the timing of the song that you are placing the note
 
 
-**Horizontal Value** : The x coordinate on the axis that the note is being placed on.
+**Horizontal Value** : The x coordinate on the axis (or the column) that the note is being placed on.
 
 
 
-### Multi-color Squares at middle of notes and what it represents:
-Updating in the future.
+## Multi-color Squares at middle of notes and what it represents:
+Will update again in the future.
+
+**White Square**:
+Shows up in EDIT Mode (When you press **4**) when your mouse is near a note. This note will be selected if you double click.
+
+![Pic Showing Blue and Purple Square on Note](Images/Blue%20Square%20Pic%202.jpg?raw=true "Blue and Purple Square")
+
+**Blue Square**:
+This square means that the current size you have selected (Size of the next note you place down if you do not change its size) is the same as the notes that have the blue square on them. When you see blue squares on multiple notes, note that they all have the same size.
+
+**Purple Square**:
+This square means that this note is the same size and in the same column as the note that you are about to place down. (Blue + Red = Purple)
+
+![Pic Showing Red Square on Note](Images/Red%20Purple%20Blue%20Square%20on%20Note.jpg?raw=true "Red Square")
+
+**Red Square**:
+If a note has a red square it means that this note is in the same column as the note that you are about to place down. Very useful for aligning your notes.
+
+### Unknown Squares:
+
+![Pic Showing Yellow Square on Note](Images/Yellow%20Square%20on%20Note.jpg?raw=true "Yellow Square")
+
+**Yellow Square**: Rarely shows up, I do not know why it appears, seems like it does for no reason.
+
+![Pic Showing Grey Square on Note](Images/Grey%20Square%20on%20Note.jpg?raw=true "Grey Square")
+
+**Grey Square**: This seems to show up even less than the Yellow Square and I have no idea why it does.
 
 
-**HYINTS**: Save your chart regularly using the right click menu so as to not lose progress
+
+## HYINTS: 
+Save your chart regularly using the right click menu so as to not lose progress
 
 
 
@@ -62,12 +92,13 @@ Updating in the future.
 # Troubleshooting
 
 If you encounter any bug while charting and your screen turns black, do the following steps to recover your chart and not waste the past few hours of work you put into it!
-_(For example: When you press **S** too many times until Song Speed becomes 0 in the dynaremmixv3 chart maker.)_
+_(For example: When you press **S** too many times until Song Speed becomes 0 in the dynaremixv3 chart maker.)_
 
 #### Steps:
 1. Press "F12"
 2. In the Dev Window that pops up, press the "Console" tab at the top
-3. In the console type save()
+3. In the console type save();
+
 Then you can choose where to save your map xml file in the pop up window even though the screen is black, after that just reload dynaremix and then reopen your newly downloaded map xml file and breathe a sigh of relief.
 
 
