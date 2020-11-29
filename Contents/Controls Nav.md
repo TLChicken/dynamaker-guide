@@ -83,7 +83,7 @@ After selecting those notes you can right click to **Delete** or copy them. ( *I
 **Purple Line** : The timing of your note if placed on other sides of the chart.
 - Use this to judge the timing of the current note you are placing to the other notes coming down on different sides.
 
-**Confusing Numbers Around the Note** : See bottom part of guide in [Placing Notes](Placing%20Notes) section as this is very confusing.
+**Confusing Numbers Around the Note** : See bottom part of guide in [Placing Notes](Placing%20Notes.md) section as this is very confusing.
 
 
 [Back to Main Page](https://github.com/TLChicken/dynamaker-guide)
