@@ -49,6 +49,12 @@ O makes notes come later.
 P makes notes come earlier. 
 
 
+# Next:
+
+**[Controls - Navigation and Charting](/Contents/Controls%20Nav.md)**
+
+**[Placing Notes](/Contents/Placing%20Notes.md)**
+
 
 ## TO SAVE YOUR CHART
 1. Right Click
@@ -61,4 +67,4 @@ When you save it in this form, the next time you open DynaMaker you only need to
 .dy files can also be loaded into the DynaMaker website on your phone to play the chart using DynaMaker's in-built touchscreen interactive chart player. (Personally I couldn't get it to load on some of my devices.)
 
 
-
+[Back to Main Page](https://github.com/TLChicken/dynamaker-guide)
