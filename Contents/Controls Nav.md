@@ -66,7 +66,7 @@ The Active side is the side that you are editing. You use it to choose what side
 
 **4** : Go into **Edit** Mode
 
-# EDIT Mode
+<h1 id="edit_mode">EDIT Mode</h1>
 
 When you mouse over or near a note there will be a **White Square** on the middle of the note. Double click to select it and place it somewhere else.
 
@@ -85,7 +85,7 @@ After selecting those notes you can right click to **Delete** or copy them. ( *I
 **[Placing Notes](/Contents/Placing%20Notes.md)**
 
 
-# What do the Random Stuff around your Note mean:
+<h1 id="random_stuff">What do the Random Stuff around your Note mean:</h1>
 
 **White Line** : Graphically shows the column that your note will be placed in if you left click. This can be used to help you align your notes.
 
