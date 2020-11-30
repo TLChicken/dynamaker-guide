@@ -48,7 +48,7 @@ Keyboard:
 **B** : Song goes in reverse.
 
 
-## BPM Change
+<h2 id="BPM">BPM Change</h2>
 
 **To access:**
 
