@@ -24,7 +24,7 @@ Be sure to see the [Navigation Controls](Controls%20Nav) Section so you know how
 
 
 
-# Niche Stuff Section
+<h1 id="niche">Niche Stuff Section</h1>
 
 
 ## Confusing Numbers around the Notes
@@ -52,7 +52,7 @@ x/y is like which sub interval of the bar are u placing the note in, it represen
 
 
 
-## Multi-color Squares at middle of notes and what it represents:
+<h2 id="multi-colour">Multi-colour Squares at middle of notes and what it represents:</h2>
 Will update again in the future.
 
 **White Square**:
