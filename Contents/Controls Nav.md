@@ -66,6 +66,8 @@ The Active side is the side that you are editing. You use it to choose what side
 
 **4** : Go into **Edit** Mode
 
+# EDIT Mode
+
 When you mouse over or near a note there will be a **White Square** on the middle of the note. Double click to select it and place it somewhere else.
 
 You can select several notes at once by dragging left click such that the box formed overlays the notes. 
