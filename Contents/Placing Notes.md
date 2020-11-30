@@ -56,9 +56,9 @@ x/y is like which sub interval of the bar are u placing the note in, it represen
 Will update again in the future.
 
 **White Square**:
-Shows up in EDIT Mode (When you press **4**) when your mouse is near a note. This note will be selected if you double click.
+Shows up in EDIT Mode (When you press **4**) when your mouse is hovered near a note. This note will be selected if you double click.
 
-![Pic Showing Blue and Purple Square on Note](Images/Blue%20Square%20Pic%202.jpg?raw=true "Blue and Purple Square")
+![Pic Showing Blue, Red and Purple Square on Note](Images/Blue%20Red%20Purple%20Squares.jpg?raw=true "Blue, Red and Purple Square")
 
 **Blue Square**:
 This square means that the current size you have selected (Size of the next note you place down if you do not change its size) is the same as the notes that have the blue square on them. When you see blue squares on multiple notes, note that they all have the same size.
@@ -66,21 +66,18 @@ This square means that the current size you have selected (Size of the next note
 **Purple Square**:
 This square means that this note is the same size and in the same column as the note that you are about to place down. (Blue + Red = Purple)
 
-![Pic Showing Red Square on Note](Images/Red%20Purple%20Blue%20Square%20on%20Note.jpg?raw=true "Red Square")
-
 **Red Square**:
 If a note has a red square it means that this note is in the same column as the note that you are about to place down. Very useful for aligning your notes.
 
 ### Unknown Squares:
 
-![Pic Showing Yellow Square on Note](Images/Yellow%20Square%20on%20Note.jpg?raw=true "Yellow Square")
+![Pic Showing Yellow and Grey Square on Note](Images/Yellow%20and%20Grey%20Square.jpg?raw=true "Yellow and Grey Square")
 
 **Yellow Square**: Rarely shows up, I do not know why it appears, seems like it does for no reason.
 
-![Pic Showing Grey Square on Note](Images/Grey%20Square%20on%20Note.jpg?raw=true "Grey Square")
-
 **Grey Square**: This seems to show up even less than the Yellow Square and I have no idea why it does.
 
+If anyone has any idea what these squares mean please do tell me, thanks.
 
 
 ## HYINTS: 
