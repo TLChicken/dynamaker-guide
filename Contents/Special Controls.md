@@ -1,13 +1,13 @@
 
 # Other Controls you never knew
 
-## USEFUL - Undo & Redo
+## USEFUL - Undo & Redo - SAVE XML BEFORE USING - MIGHT CRASH DYNAMAKER
 
 Keyboard:
 
-**Shift + Left Arrow** : Undo (Removes last placed note.)
+**Shift + Left Arrow** : Undo (Removes last placed note / Puts back last removed note.)
 
-**Shift + Right Arrow** : Redo (Opposite of Undo.)
+**Shift + Right Arrow** : Redo (Opposite of Undo. Undo your undo.)
 
 
 
