@@ -67,6 +67,8 @@ Note that after you place this down it cannot be removed (BPM Change delete feat
 
 While you are in **BPM Change** mode, hover your mouse over the bar that you want the BPM of the chart to change at and **Left Click**. (You can put it at any horizontal position.) Then key in the BPM that you want to change to in the pop-up box. _Results may be unexpected._
 
+Note that this feature is currently not supported yet in the executable version of Dynaremix (By Jmak and Jono99).
+
 ### How to use properly:
 
 Will be updated again very soon in the future together with a Right Click Menu page.
