@@ -45,7 +45,7 @@ Keyboard:
 
 **L** : Changes the graphics of notes to become simple lines. (Reduces Lag)
 
-**B** : Song goes in reverse.
+**B** : Toggle to make the chart go in reverse when scrolling using Mouse Wheel. (Inverts mouse wheel scrolling.)
 
 
 <h2 id="BPM">BPM Change</h2>
