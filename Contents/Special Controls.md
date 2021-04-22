@@ -60,14 +60,14 @@ Dynaremix contains a feature which allows you to change the chart's BPM in the m
 
 3. Press the **BPM Change** Mode.
 
-Note that after you place this down it cannot be removed (BPM Change delete feature was removed). So save your map first before using this feature.
+Note that after you place this down it cannot be removed (BPM Change delete feature was removed). So save your map first before using this feature in case something unexpected happens.
 
 
 ### Placing down BPM Change Object
 
-While you are in **BPM Change** mode, hover your mouse over the bar that you want the BPM of the chart to change at and **Left Click**. (You can put it at any horizontal position.) Then key in the BPM that you want to change to in the pop-up box. _Results may be unexpected._
+While you are in **BPM Change** mode, hover your mouse over the bar that you want the BPM of the chart to change at and **Left Click**. (You can put it at any horizontal position.) Then key in the BPM that you want to change to in the pop-up box, and press "OK". _Results may be unexpected._
 
-Note that this feature is currently not supported yet in the executable version of Dynaremix (By Jmak and Jono99).
+
 
 ### How to use properly:
 
