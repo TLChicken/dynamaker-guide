@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.18.1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="../markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="../markbind/css/octicons.css">
+  <link rel="stylesheet" href="../markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="../markbind/css/markbind.min.css">
+  <script src="../markbind/js/polyfill.min.js"></script>
+  <script src="../markbind/js/vue.min.js"></script>
+  <script src="../markbind/js/markbind.min.js"></script>
+  <script src="../markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/dynamaker-guide/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand">Dynamaker Guide Logo</a>
+        <li><a href="/dynamaker-guide/mainPg.html" class="nav-link">Contents</a></li>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/index.html">Home 🏠</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic1.html">Topic 1</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic2.html">Topic 2</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Topic 3
+                <i class="site-nav-dropdown-btn-icon site-nav-rotate-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
+                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i>
+              </div>
+              <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3a.html">Topic 3a</a></div>
+                </li>
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3b.html">Topic 3b</a></div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <h1 id="basic-controls"><span id="basic-controls" class="anchor"></span>Basic Controls<a class="fa fa-anchor" href="#basic-controls" onclick="event.stopPropagation()"></a></h1>
+        <h2 id="navigation"><span id="navigation" class="anchor"></span>Navigation<a class="fa fa-anchor" href="#navigation" onclick="event.stopPropagation()"></a></h2>
+        <p>Keyboard:</p>
+        <p><strong>A / D / Scroll Wheel</strong> : Move Forwards / Backwards in song by 1 second. (The chart scrolls up or down.)</p>
+        <p><strong>Shift + A / Shift + D</strong> : Move Forwards / Backwards in song by 0.01 seconds.</p>
+        <p><strong>Q / E</strong> : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed.)</p>
+        <p><strong>W / S</strong> : Sets speed of song.</p>
+        <ul>
+          <li>Normal is 1.0 Speed</li>
+          <li>Set it slower to make it easier to set the song's offset or align notes to the rhythm more easily.</li>
+        </ul>
+        <p><em>BUG: Do not press S anymore when speed is 0.1 or it could become 0.0 and crash the chart maker.</em>
+          <em>If you encounter the bug and want to recover your chart, follow the steps in the Troubleshooting section here: <a href="/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting">Troubleshooting</a></em>
+        </p>
+        <p><strong>O / P</strong> : Adjusts the offset of the song. O causes notes to come down later than before, and vice versa for P.</p>
+        <p><strong>Enter</strong> : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.</p>
+        <p><strong>R / M</strong> : Go to the beginning of the chart and plays it. (No Scores and Combo displayed.)</p>
+        <p><strong>Space</strong> : Play / Pauses the song.</p>
+        <h2 id="charting"><span id="charting" class="anchor"></span>Charting<a class="fa fa-anchor" href="#charting" onclick="event.stopPropagation()"></a></h2>
+        <h3 id="mouse"><span id="mouse" class="anchor"></span>Mouse:<a class="fa fa-anchor" href="#mouse" onclick="event.stopPropagation()"></a></h3>
+        <p><strong>Left Click</strong>: When in placing down notes mode (Press <strong>1 / 2 / 3</strong> on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)</p>
+        <p><strong>Right Click</strong> : Opens the Right Click Menu. (Right Click Menu Section To be Added.)</p>
+        <h3 id="keyboard"><span id="keyboard" class="anchor"></span>Keyboard:<a class="fa fa-anchor" href="#keyboard" onclick="event.stopPropagation()"></a></h3>
+        <p><strong>Down / Left / Right Arrows</strong> : Turns on/off the note guidelines for the respective sides.</p>
+        <ul>
+          <li>Press once to have it 50% transparent.</li>
+          <li>Press second time to make it opaque.</li>
+          <li>Press third time to turn off.</li>
+        </ul>
+        <h5 id="important-but-confusing-parts-below"><span id="important-but-confusing-parts-below" class="anchor"></span>Important but Confusing Parts Below:<a class="fa fa-anchor" href="#important-but-confusing-parts-below" onclick="event.stopPropagation()"></a></h5>
+        <p><strong>Up Arrow</strong> : Switches the Active Side in the order of:</p>
+        <pre><code v-pre>Main Side (Down) --&gt; Left Side --&gt; Right Side
+</code></pre>
+        <p>The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking. While a certain side is active, the other 2 inactive side will not be affected by anything you do on the active side. (Eg: Deleting Notes)</p>
+        <p><strong>1 / 2 / 3</strong> : Selects Type of Note</p>
+        <p>1: Tap</p>
+        <p>2: Slide</p>
+        <p>3: Hold</p>
+        <p><strong>4</strong> : Go into <strong>Edit</strong> Mode</p>
+        <h1 id="edit_mode"><span id="edit_mode" class="anchor"></span>EDIT Mode<a class="fa fa-anchor" href="#edit_mode" onclick="event.stopPropagation()"></a></h1>
+        <p>When you mouse over or near a note there will be a <strong>White Square</strong> on the middle of the note. Double click to select it and place it somewhere else.</p>
+        <p>You can select several notes at once by dragging left click such that the box formed overlays the notes.</p>
+        <p>(Only notes in the current side that you are editing (The <strong>Active Side</strong>) will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side. When you press <strong>Del</strong> only the left side notes in the white box will be deleted.)
+          After selecting those notes you can right click to <strong>Delete</strong> or copy them. ( <em>I haven’t figured out how to paste the notes, if that is possible, please do let me know if you know how</em> )</p>
+        <p><strong>Del</strong> : You can press this in <strong>Edit Mode</strong> after dragging left click to select notes, to delete those notes.</p>
+        <p><strong>H</strong> : Hold down to bring up some Help text which describes some controls available at the bottom of the screen.</p>
+        <h2 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h2>
+        <p><strong><a href="/Contents/Placing%20Notes.html">Placing Notes</a></strong></p>
+        <h1 id="random_stuff"><span id="random_stuff" class="anchor"></span>What do the Random Stuff around your Note mean:<a class="fa fa-anchor" href="#random_stuff" onclick="event.stopPropagation()"></a></h1>
+        <p><strong>White Line</strong> : Graphically shows the column that your note will be placed in if you left click. This can be used to help you align your notes.</p>
+        <p><strong>Blue/Red/Yellow Line</strong> : Graphically shows the row (Timing) that your note will be placed in if you left click. This helps you to align your notes in terms of timing. For example, if you are placing down notes on the Right side, there would also be such a line on the opposite side for you to help you to compare the timing of the notes on the right and the left side.</p>
+        <p><strong>Purple Line</strong> : The timing of your note if placed on other sides of the chart. Similar to the <strong>Blue/Red/Yellow Line</strong>.</p>
+        <ul>
+          <li>Use this to judge the timing of the current note you are placing to the other notes coming down on different sides.</li>
+        </ul>
+        <p><strong>Confusing Numbers Around the Note</strong> : See Niche Stuff Section in <a href="/dynamaker-guide/Contents/Placing%20Notes.html#niche">Placing Notes</a>.</p>
+        <p><strong>Multi-Colour Squares at the centre of some notes</strong>: See Multi-Colour Squares Section in <a href="/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour">Placing Notes</a>.</p>
+        <p><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a></p>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
+      </div>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.18.1</a>]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="../markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/dynamaker-guide'
+  MarkBind.setupWithSearch()
+</script>
+<script src="../markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.18.1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="../markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="../markbind/css/octicons.css">
+  <link rel="stylesheet" href="../markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="../markbind/css/markbind.min.css">
+  <script src="../markbind/js/polyfill.min.js"></script>
+  <script src="../markbind/js/vue.min.js"></script>
+  <script src="../markbind/js/markbind.min.js"></script>
+  <script src="../markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/dynamaker-guide/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand">Dynamaker Guide Logo</a>
+        <li><a href="/dynamaker-guide/mainPg.html" class="nav-link">Contents</a></li>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/index.html">Home 🏠</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic1.html">Topic 1</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic2.html">Topic 2</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Topic 3
+                <i class="site-nav-dropdown-btn-icon site-nav-rotate-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
+                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i>
+              </div>
+              <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3a.html">Topic 3a</a></div>
+                </li>
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3b.html">Topic 3b</a></div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <h1 id="getting-started"><span id="getting-started" class="anchor"></span>Getting Started<a class="fa fa-anchor" href="#getting-started" onclick="event.stopPropagation()"></a></h1>
+        <p>Website Link: <a href="https://dynamaker.tunergames.com/">https://dynamaker.tunergames.com/</a></p>
+        <h6 id="welcome-to-the-unofficial-dynamaker-guide"><span id="welcome-to-the-unofficial-dynamaker-guide" class="anchor"></span>Welcome to the unofficial Dynamaker Guide!<a class="fa fa-anchor" href="#welcome-to-the-unofficial-dynamaker-guide" onclick="event.stopPropagation()"></a></h6>
+        <p>This tool grants you the power to create a Dynamix chart for any song you envision a chart being made for, which is amazing! It is made by omegaPi some time ago.</p>
+        <h2 id="step-1-getting-the-editor-to-fit-your-screen"><span id="step-1-getting-the-editor-to-fit-your-screen" class="anchor"></span>Step 1: Getting the Editor to fit your screen.<a class="fa fa-anchor" href="#step-1-getting-the-editor-to-fit-your-screen" onclick="event.stopPropagation()"></a></h2>
+        <p>Use <em>Google Chrome</em> to visit the website.
+          Press &quot;F&quot; to go into Full-Screen mode. (Might have to press F11 as well so that everything is aligned.)</p>
+        <p><strong>If the website does not fit your screen:</strong></p>
+        <p>Set the <strong>Zoom</strong> of the website to 100%.
+          - (Setting is in the Chrome Dropdown menu at the top right, below the X close window button.)
+          If it still does not fit, try other zoom values like 80%.</p>
+        <h2 id="step-2-load-your-music-and-map-files"><span id="step-2-load-your-music-and-map-files" class="anchor"></span>Step 2: Load your music (and map) files<a class="fa fa-anchor" href="#step-2-load-your-music-and-map-files" onclick="event.stopPropagation()"></a></h2>
+        <p>If you are creating a new map, only load the music file, then press <strong>New Map</strong>.
+          - Press <em>Audio/Video Browse</em> to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing.</p>
+        <p>If you are editing an existing map, load both the map file and audio file.</p>
+        <h2 id="step-3-new-map-setup"><span id="step-3-new-map-setup" class="anchor"></span>Step 3: New Map Setup<a class="fa fa-anchor" href="#step-3-new-map-setup" onclick="event.stopPropagation()"></a></h2>
+        <p>Find the BPM of the song from other sources (eg Osu!), then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the <strong>&quot;O&quot;</strong> and <strong>&quot;P&quot;</strong> keys.</p>
+        <ul>
+          <li>Beat Per Minute is the BPM of the song.</li>
+          <li>Bars Per Minute is the BPM divided by the Time signature of the song (Number of Beats in 1 Bar)</li>
+        </ul>
+        <h5 id="left-side-and-right-side-settings"><span id="left-side-and-right-side-settings" class="anchor"></span>Left Side and Right Side Settings:<a class="fa fa-anchor" href="#left-side-and-right-side-settings" onclick="event.stopPropagation()"></a></h5>
+        <ul>
+          <li>MIXER: Side has Sliding Bar and can only contain Slide Notes</li>
+          <li>PAD: Side can only contain Tap and Hold Notes</li>
+          <li>MULTI: Side can contain all 3 types of notes. (This type of side cannot be found in Dynamix)</li>
+        </ul>
+        <h2 id="step-4-create-map"><span id="step-4-create-map" class="anchor"></span>Step 4: Create Map<a class="fa fa-anchor" href="#step-4-create-map" onclick="event.stopPropagation()"></a></h2>
+        <p>Press the Start button.
+          Change the offset of your song by using the <strong>O</strong> and <strong>P</strong> buttons.
+          <strong>O</strong> makes notes come later.
+          <strong>P</strong> makes notes come earlier.
+        </p>
+        <h1 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h1>
+        <p><strong><a href="/Contents/Controls%20Nav.html">Controls - Navigation and Charting</a></strong></p>
+        <p><strong><a href="/Contents/Placing%20Notes.html">Placing Notes</a></strong></p>
+        <h2 id="to-save-your-chart"><span id="to-save-your-chart" class="anchor"></span>TO SAVE YOUR CHART<a class="fa fa-anchor" href="#to-save-your-chart" onclick="event.stopPropagation()"></a></h2>
+        <ol>
+          <li>Right Click</li>
+          <li>Click Save as XML to only save the chart file.</li>
+          <li>Next time when opening DynaMaker, load both the XML map file and the song file.</li>
+        </ol>
+        <p>Alternatively you can click Save as .DY to save as a format which contains both the map and the song. (File Size is bigger!!)
+          When you save it in this form, the next time you open DynaMaker you only need to load the .dy file as it contains both the map and song. However if you save too many .dy files it will take up a lot of space.</p>
+        <p>.dy files can also be loaded into the DynaMaker website on your phone to play the chart using DynaMaker's in-built touchscreen interactive chart player. (Personally I couldn't get it to load on some of my devices as the screen and webpage are misaligned. I tried a few devices but I could get it to work consistently only on a iPhone 7 running iOS 10 though.) This is an alternative way to test your chart if you do not want to upload your chart on to Dynamite.</p>
+        <p><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a></p>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
+      </div>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.18.1</a>]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="../markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/dynamaker-guide'
+  MarkBind.setupWithSearch()
+</script>
+<script src="../markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>

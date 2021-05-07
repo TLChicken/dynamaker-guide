@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.18.1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="../markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="../markbind/css/octicons.css">
+  <link rel="stylesheet" href="../markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="../markbind/css/markbind.min.css">
+  <script src="../markbind/js/polyfill.min.js"></script>
+  <script src="../markbind/js/vue.min.js"></script>
+  <script src="../markbind/js/markbind.min.js"></script>
+  <script src="../markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/dynamaker-guide/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand">Dynamaker Guide Logo</a>
+        <li><a href="/dynamaker-guide/mainPg.html" class="nav-link">Contents</a></li>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/index.html">Home 🏠</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic1.html">Topic 1</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic2.html">Topic 2</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Topic 3
+                <i class="site-nav-dropdown-btn-icon site-nav-rotate-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
+                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i>
+              </div>
+              <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3a.html">Topic 3a</a></div>
+                </li>
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3b.html">Topic 3b</a></div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <h1 id="placing-down-some-notes"><span id="placing-down-some-notes" class="anchor"></span>Placing Down Some Notes!<a class="fa fa-anchor" href="#placing-down-some-notes" onclick="event.stopPropagation()"></a></h1>
+        <p>Press <strong>1</strong> to select <em>Tap Notes</em>, then <strong>Left Click</strong> to place down the note at where your mouse is at.</p>
+        <p>While placing notes down, hold down <strong>Left Click</strong> to adjust the size of the note.
+          To delete notes, press <strong>4</strong> to go into <strong>Edit Mode</strong>, then drag <strong>Left Click</strong> over the notes that you want to delete to select them, then press <strong>Del</strong> or use the <strong>Right Click</strong> menu to delete them.
+          Note that only notes in the side that yo are editing (the <strong>Active Side</strong>) will be selected and deleted.</p>
+        <p>Press <strong>2</strong> to place down <em>Slide notes</em>, the same way as <em>Tap Notes</em>.</p>
+        <p>Press <strong>3</strong> to place down <em>Hold Notes</em>.
+          You will place down the start of the hold note first, then scroll to the part of the song you want to hold note to end, then <strong>Left Click</strong> again to place down the end of the hold note.</p>
+        <p>Press <strong>Up Arrow</strong> to change the <strong>Active Side</strong>, which is the side that you are placing notes on. The <strong>Active Side</strong> changes in a clockwise direction, from Main to Left to Right and then back.</p>
+        <p>Press <strong>4</strong> to go into <strong>EDIT Mode</strong> if you need to select and move or delete notes that are already placed. (More in Navigation Controls)</p>
+        <p>Be sure to see the <a href="/Contents/Controls%20Nav.html">Navigation Controls</a> Section so you know how to move around the song.</p>
+        <h1 id="niche"><span id="niche" class="anchor"></span>Niche Stuff Section<a class="fa fa-anchor" href="#niche" onclick="event.stopPropagation()"></a></h1>
+        <h2 id="confusing-numbers-around-the-notes"><span id="confusing-numbers-around-the-notes" class="anchor"></span>Confusing Numbers around the Notes<a class="fa fa-anchor" href="#confusing-numbers-around-the-notes" onclick="event.stopPropagation()"></a></h2>
+        <p>This is a sample representation of a note:</p>
+        <pre><code v-pre>    *Bar No. + x/y*
+            &lt;=============&gt;
+    *Horizontal Value*   *Note Size*
+</code></pre>
+        <p><strong>ATTENTION QUITE CONFUSING AT FIRST, DONT REALLY HAVE TO KNOW:</strong></p>
+        <p><strong>Bar No. + x/y</strong>: Bar No. is the bar of the song that you are about to place the note in. Exact timing depends on BPM of the song. (Music Theory)
+          y is the number of sub intervals of the bar that the note can be snapped to (adjusted by <strong>C/V</strong>, recommend 4 or 8, use 12 to place at 1/3 intervals in bars)
+          x is the sub interval that the note is being snapped onto.</p>
+        <p>The more intervals allowed to be snapped to means the shorter amount of time between each sub interval.</p>
+        <p>For a song with 4/4 time signature you can set y=4 then place down notes on 1/4, 2/4, 3/4, 4/4(not shown in editor) to have all 4 Beats in the bar to have notes on them. Or you can set y=16 and place notes at 4/16, 8/16, 12/16, 16/16 and achieve the same result. But having y at 16 means you can place more notes in between the timings of the 4 Beats in the bar</p>
+        <p>x/y is like which sub interval of the bar are u placing the note in, it represents the timing of the song that you are placing the note</p>
+        <p><strong>Horizontal Value</strong> : The x coordinate on the axis (or the column) that the note is being placed on.</p>
+        <h2 id="multi-colour"><span id="multi-colour" class="anchor"></span>Multi-colour Squares at middle of notes and what it represents:<a class="fa fa-anchor" href="#multi-colour" onclick="event.stopPropagation()"></a></h2>
+        Will update again in the future.
+        <p><strong>White Square</strong>:
+          Shows up in EDIT Mode (When you press <strong>4</strong>) when your mouse is hovered near a note. This note will be selected if you double click.</p>
+        <p><a href="/dynamaker-guide/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true" target="_self"><img src="/dynamaker-guide/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true" alt class="img-fluid" title="Blue, Red and Purple Square"></a></p>
+        <p><strong>Blue Square</strong>:
+          This square means that the current size you have selected (Size of the next note you place down if you do not change its size) is the same as the notes that have the blue square on them. When you see blue squares on multiple notes, note that they all have the same size.</p>
+        <p><strong>Purple Square</strong>:
+          This square means that this note is the same size and in the same column as the note that you are about to place down. (Blue + Red = Purple)</p>
+        <p><strong>Red Square</strong>:
+          If a note has a red square it means that this note is in the same column as the note that you are about to place down. Very useful for aligning your notes.</p>
+        <h3 id="unknown-squares"><span id="unknown-squares" class="anchor"></span>Unknown Squares:<a class="fa fa-anchor" href="#unknown-squares" onclick="event.stopPropagation()"></a></h3>
+        <p><a href="/dynamaker-guide/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true" target="_self"><img src="/dynamaker-guide/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true" alt class="img-fluid" title="Yellow and Grey Square"></a></p>
+        <p><strong>Yellow Square</strong>: Rarely shows up, I do not know why it appears, seems like it does for no reason.</p>
+        <p><strong>Grey Square</strong>: This seems to show up even less than the Yellow Square and I have no idea why it does.</p>
+        <p>If anyone has any idea what these squares mean please do tell me, thanks.</p>
+        <h2 id="hyints"><span id="hyints" class="anchor"></span>HYINTS:<a class="fa fa-anchor" href="#hyints" onclick="event.stopPropagation()"></a></h2>
+        <p>Save your chart regularly using the right click menu so as to not lose progress</p>
+        <h1 id="troubleshooting"><span id="troubleshooting" class="anchor"></span>Troubleshooting<a class="fa fa-anchor" href="#troubleshooting" onclick="event.stopPropagation()"></a></h1>
+        <p>If you encounter any bug while charting and your screen turns black, do the following steps to recover your chart and not waste the past few hours of work you put into it!
+          <em>(For example: When you press <strong>S</strong> too many times until Song Speed becomes 0 in the dynaremixv3 chart maker.)</em>
+        </p>
+        <h4 id="steps"><span id="steps" class="anchor"></span>Steps:<a class="fa fa-anchor" href="#steps" onclick="event.stopPropagation()"></a></h4>
+        <ol>
+          <li>Press &quot;F12&quot;</li>
+          <li>In the Dev Window that pops up, press the &quot;Console&quot; tab at the top</li>
+          <li>In the console type save();</li>
+        </ol>
+        <p>Then you can choose where to save your map xml file in the pop up window even though the screen is black, after that just reload dynaremix and then reopen your newly downloaded map xml file and breathe a sigh of relief.</p>
+        <p><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a>
+          <i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i>
+        </p>
+      </div>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.18.1</a>]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="../markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/dynamaker-guide'
+  MarkBind.setupWithSearch()
+</script>
+<script src="../markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>
