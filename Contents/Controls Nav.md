@@ -1,9 +1,3 @@
-<frontmatter>
-header: header.md
-siteNav: main-nav.md
-footer: footer.md
-</frontmatter>
-
 
 # Basic Controls
 
@@ -11,100 +5,74 @@ footer: footer.md
 ## Navigation
 
 Keyboard:
+**A / D** : Move Forwards / Backwards in song by 1 second.
 
-**<kbd>A</kbd> / <kbd>D</kbd> / Scroll Wheel** : Move Forwards / Backwards in song by 1 second. (The chart scrolls up or down.)
+**Shift + A / Shift + D** : Move Forwards / Backwards in song by 0.01 seconds.
+(The screen scrolls up or down. You can also use the **Scroll Wheel** on your mouse to do this.)
 
-**<kbd>Shift</kbd> + <kbd>A</kbd> / <kbd>Shift</kbd> + <kbd>D</kbd>** : Move Forwards / Backwards in song by 0.01 seconds.
 
+**Q / E** : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed.)
 
-**<kbd>Q</kbd> / <kbd>E</kbd>** : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed. However, Dynamaker uses a different speed scale than Dynamix. Use 1.4x speed if you want to have a similar speed as 1.0x in Dynamix.)
-
-**<kbd>W</kbd> / <kbd>S</kbd>** : Sets speed of song. 
-- Default speed is 1.0 Speed
+**W / S** : Sets speed of song. 
+- Normal is 1.0 Speed
 - Set it slower to make it easier to set the song's offset or align notes to the rhythm more easily.
 
-_BUG in dynaremixv3: Do not press S anymore when speed is 0.1 or it could become 0.0 and crash the chart maker._
-_If you encounter the bug and want to recover your chart, follow the steps in the Troubleshooting section here: [Troubleshooting](Placing%20Notes.html#Troubleshooting)_
+_BUG: Do not press S anymore when speed is 0.1 or it will become 0.0 and crash the chart maker._
 
-**<kbd>O</kbd> / <kbd>P</kbd>** : Adjusts the offset of the song. <kbd>O</kbd> causes notes to come down later than before, and vice versa for <kbd>P</kbd>.
+**O / P** : Adjusts the offset of the song. O causes notes to come down later than before, and vice versa for P.
 
-**<kbd>Enter</kbd>** : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.
+**R / Enter** : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.
 
-**<kbd>R</kbd> / <kbd>M</kbd>** : Go to the beginning of the chart and plays it. (No Scores and Combo displayed.)
-
-**<kbd>Space</kbd>** : Play / Pauses the song.
-
+**Space** : Play / Pauses the song.
 
 
 ## Charting
 
-### Mouse:
+Mouse:
+**Left Click**: When in placing down notes mode (Press 1/2/3 on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note.
 
-**Left Click**: When in placing down notes mode (Press **<kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd>** on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)
+**Right Click** : Opens the Right Click Menu. (Right Click Menu Section To be Added.)
 
-**Right Click** : Opens the [~~Right Click Menu~~](https://www.youtube.com/watch?v=dQw4w9WgXcQ). (Right Click Menu Section To be Added.)
-
-### Keyboard:
-
-**<kbd>🠗</kbd> / <kbd>🠔</kbd> / <kbd>🠖</kbd>** : Turns on/off the note guidelines for the respective sides. 
+Keyboard:
+**Down / Left / Right Arrows** : Turns on/off the note guidelines for the respective sides. 
 - Press once to have it 50% transparent.
 - Press second time to make it opaque.
 - Press third time to turn off.
 
 
-##### Important but Confusing Parts Below:
+##### Confusing Parts Below:
 
-<kbd>🠕</kbd> : Switches the Active Side in the order of:
-
-	Main Side (Down) 🠖 Left Side 🠖 Right Side
-	
-The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking. While a certain side is active, the other 2 inactive sides will not be affected by anything you do on the active side. (Eg: Deleting Notes)
+**Up Arrow** : Switches the Active Side in the order of:
+	Main Side (Down) --> Left Side --> Right Side
+The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking.
 
 
-**<kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd>** : Selects Type of Note
+**1/2/3** : Selects Type of Note
 
-|Number|Note Type|
-|---|-----|
-|1| Tap |
-|2| Slide|
-|3| Hold|
+1: Tap
+2: Slide
+3: Hold
 
 
-
-**<kbd>4</kbd>** : Go into **Edit** Mode
-
-<h1 id="edit_mode">EDIT Mode</h1>
-
-When you mouse over or near a note there will be a **White Square** on the middle of the note. Double click to select it and place it somewhere else.
+**4** : Go into **Edit** Mode
+When u mouse over or near a note there will be a white square at the middle of it. Double click to select it and place it somewhere else.
 
 You can select several notes at once by dragging left click such that the box formed overlays the notes. 
+(Only notes in the current side that you are editing (The **Active Side**) will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side. When you press **Del** only the left side notes in the white box will be deleted.)
+After selecting those notes you can right click to **Delete** or copy them. ( *I haven’t figured out how to paste the notes, if that is possible* )
 
-(Only notes in the current side that you are editing (The **Active Side**) will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side. When you press **<kbd>Del</kbd>** only the left side notes in the white box will be deleted.)
-After selecting those notes you can right click to **Delete** or copy them. ( *You can only copy the notes. You can't paste them as there is no paste function. :thynk:* )
-
-**<kbd>Del</kbd>** : You can press this in **Edit Mode** after dragging left click to select notes, to delete those notes.
-
-**<kbd>H</kbd>** : Hold down to bring up some Help text which describes some controls available at the bottom of the screen.
+**Del** : You can press this in **Edit Mode** after dragging left click to select notes, to delete those notes.
 
 
-## Next:
-
-**[Placing Notes]({{ baseUrl }}/Contents/Placing%20Notes.html)**
+**H** : Hold down to bring up some Help text which describes some controls available at the bottom of the screen.
 
 
-<h1 id="random_stuff">What do the Random Stuff around your Note mean:</h1>
 
-**White Line** : Graphically shows the column that your note will be placed in if you left click. This can be used to help you align your notes.
 
-**Blue/Red/Yellow Line** : Graphically shows the row (Timing) that your note will be placed in if you left click. This helps you to align your notes in terms of timing. For example, if you are placing down notes on the Right side, there would also be such a line on the opposite side for you to help you to compare the timing of the notes on the right and the left side.
+# What do the random stuff around your note mean when in placing down notes mode:
 
-**Purple Line** : The timing of your note if placed on other sides of the chart. Similar to the **Blue/Red/Yellow Line**.
-
+**Purple Line** : The timing of your note if placed on other sides of the chart.
 - Use this to judge the timing of the current note you are placing to the other notes coming down on different sides.
 
+**Confusing Numbers Around the Note** : See bottom part of guide in [Placing Notes](Placing%20Notes) section as this is very confusing.
 
-**Confusing Numbers Around the Note** : See Niche Stuff Section in [Placing Notes](Placing%20Notes.html#niche).
-
-**Multi-Colour Squares at the centre of some notes**: See Multi-Colour Squares Section in [Placing Notes](Placing%20Notes.html#multi-colour).
-
-[Back to Main Page](../mainPg.html)
