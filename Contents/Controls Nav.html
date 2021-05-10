@@ -26,12 +26,13 @@
 <body>
   <div id="app">
     <header>
+
       <navbar type="dark" class="temp-navbar">
-        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand">Dynamaker Guide Logo</a>
+        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand"><img src="/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png" class="logo"></a>
         <li><a href="/dynamaker-guide/mainPg.html" class="nav-link">Contents</a></li>
         <li slot="right">
           <form class="navbar-form">
-            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+            <searchbar :data="searchData" placeholder="This Searchbar Works" :on-hit="searchCallback" menu-align-right></searchbar>
           </form>
         </li>
       </navbar>
@@ -65,10 +66,13 @@
               </div>
               <ul class="site-nav-dropdown-container site-nav-list">
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/">Topic 3a</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode">Edit Mode</a></div>
                 </li>
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/">Topic 3b</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a></div>
+                </li>
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Special%20Controls.html#BPM">BPM Change</a></div>
                 </li>
               </ul>
             </li>
@@ -81,25 +85,25 @@
         <h1 id="basic-controls"><span id="basic-controls" class="anchor"></span>Basic Controls<a class="fa fa-anchor" href="#basic-controls" onclick="event.stopPropagation()"></a></h1>
         <h2 id="navigation"><span id="navigation" class="anchor"></span>Navigation<a class="fa fa-anchor" href="#navigation" onclick="event.stopPropagation()"></a></h2>
         <p>Keyboard:</p>
-        <p><strong>A / D / Scroll Wheel</strong> : Move Forwards / Backwards in song by 1 second. (The chart scrolls up or down.)</p>
-        <p><strong>Shift + A / Shift + D</strong> : Move Forwards / Backwards in song by 0.01 seconds.</p>
-        <p><strong>Q / E</strong> : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed.)</p>
-        <p><strong>W / S</strong> : Sets speed of song.</p>
+        <p><strong><kbd>A</kbd> / <kbd>D</kbd> / Scroll Wheel</strong> : Move Forwards / Backwards in song by 1 second. (The chart scrolls up or down.)</p>
+        <p><strong><kbd>Shift</kbd> + <kbd>A</kbd> / <kbd>Shift</kbd> + <kbd>D</kbd></strong> : Move Forwards / Backwards in song by 0.01 seconds.</p>
+        <p><strong><kbd>Q</kbd> / <kbd>E</kbd></strong> : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed. However, Dynamaker uses a different speed scale than Dynamix. Use 1.4x speed if you want to have a similar speed as 1.0x in Dynamix.)</p>
+        <p><strong><kbd>W</kbd> / <kbd>S</kbd></strong> : Sets speed of song.</p>
         <ul>
-          <li>Normal is 1.0 Speed</li>
+          <li>Default speed is 1.0 Speed</li>
           <li>Set it slower to make it easier to set the song's offset or align notes to the rhythm more easily.</li>
         </ul>
-        <p><em>BUG: Do not press S anymore when speed is 0.1 or it could become 0.0 and crash the chart maker.</em>
+        <p><em>BUG in dynaremixv3: Do not press S anymore when speed is 0.1 or it could become 0.0 and crash the chart maker.</em>
           <em>If you encounter the bug and want to recover your chart, follow the steps in the Troubleshooting section here: <a href="/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting">Troubleshooting</a></em>
         </p>
-        <p><strong>O / P</strong> : Adjusts the offset of the song. O causes notes to come down later than before, and vice versa for P.</p>
-        <p><strong>Enter</strong> : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.</p>
-        <p><strong>R / M</strong> : Go to the beginning of the chart and plays it. (No Scores and Combo displayed.)</p>
-        <p><strong>Space</strong> : Play / Pauses the song.</p>
+        <p><strong><kbd>O</kbd> / <kbd>P</kbd></strong> : Adjusts the offset of the song. <kbd>O</kbd> causes notes to come down later than before, and vice versa for <kbd>P</kbd>.</p>
+        <p><strong><kbd>Enter</kbd></strong> : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.</p>
+        <p><strong><kbd>R</kbd> / <kbd>M</kbd></strong> : Go to the beginning of the chart and plays it. (No Scores and Combo displayed.)</p>
+        <p><strong><kbd>Space</kbd></strong> : Play / Pauses the song.</p>
         <h2 id="charting"><span id="charting" class="anchor"></span>Charting<a class="fa fa-anchor" href="#charting" onclick="event.stopPropagation()"></a></h2>
         <h3 id="mouse"><span id="mouse" class="anchor"></span>Mouse:<a class="fa fa-anchor" href="#mouse" onclick="event.stopPropagation()"></a></h3>
-        <p><strong>Left Click</strong>: When in placing down notes mode (Press <strong>1 / 2 / 3</strong> on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)</p>
-        <p><strong>Right Click</strong> : Opens the Right Click Menu. (Right Click Menu Section To be Added.)</p>
+        <p><strong>Left Click</strong>: When in placing down notes mode (Press <strong><kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd></strong> on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)</p>
+        <p><strong>Right Click</strong> : Opens the <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a>. (Right Click Menu Section To be Added.)</p>
         <h3 id="keyboard"><span id="keyboard" class="anchor"></span>Keyboard:<a class="fa fa-anchor" href="#keyboard" onclick="event.stopPropagation()"></a></h3>
         <p><strong><kbd>🠗</kbd> / <kbd>🠔</kbd> / <kbd>🠖</kbd></strong> : Turns on/off the note guidelines for the respective sides.</p>
         <ul>
@@ -111,19 +115,40 @@
         <p><kbd>🠕</kbd> : Switches the Active Side in the order of:</p>
         <pre><code v-pre>Main Side (Down) 🠖 Left Side 🠖 Right Side
 </code></pre>
-        <p>The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking. While a certain side is active, the other 2 inactive side will not be affected by anything you do on the active side. (Eg: Deleting Notes)</p>
-        <p><strong>1 / 2 / 3</strong> : Selects Type of Note</p>
-        <p>1: Tap</p>
-        <p>2: Slide</p>
-        <p>3: Hold</p>
-        <p><strong>4</strong> : Go into <strong>Edit</strong> Mode</p>
+        <p>The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking. While a certain side is active, the other 2 inactive sides will not be affected by anything you do on the active side. (Eg: Deleting Notes)</p>
+        <p><strong><kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd></strong> : Selects Type of Note</p>
+        <div class="table-responsive">
+          <table class="markbind-table table table-bordered table-striped">
+            <thead>
+              <tr>
+                <th>Number</th>
+                <th>Note Type</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Tap</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Slide</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Hold</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p><strong><kbd>4</kbd></strong> : Go into <strong>Edit</strong> Mode</p>
         <h1 id="edit_mode"><span id="edit_mode" class="anchor"></span>EDIT Mode<a class="fa fa-anchor" href="#edit_mode" onclick="event.stopPropagation()"></a></h1>
         <p>When you mouse over or near a note there will be a <strong>White Square</strong> on the middle of the note. Double click to select it and place it somewhere else.</p>
         <p>You can select several notes at once by dragging left click such that the box formed overlays the notes.</p>
-        <p>(Only notes in the current side that you are editing (The <strong>Active Side</strong>) will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side. When you press <strong>Del</strong> only the left side notes in the white box will be deleted.)
-          After selecting those notes you can right click to <strong>Delete</strong> or copy them. ( <em>I haven’t figured out how to paste the notes, if that is possible, please do let me know if you know how</em> )</p>
-        <p><strong>Del</strong> : You can press this in <strong>Edit Mode</strong> after dragging left click to select notes, to delete those notes.</p>
-        <p><strong>H</strong> : Hold down to bring up some Help text which describes some controls available at the bottom of the screen.</p>
+        <p>(Only notes in the current side that you are editing (The <strong>Active Side</strong>) will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side. When you press <strong><kbd>Del</kbd></strong> only the left side notes in the white box will be deleted.)
+          After selecting those notes you can right click to <strong>Delete</strong> or copy them. ( <em>You can only copy the notes. You can't paste them as there is no paste function. :thynk:</em> )</p>
+        <p><strong><kbd>Del</kbd></strong> : You can press this in <strong>Edit Mode</strong> after dragging left click to select notes, to delete those notes.</p>
+        <p><strong><kbd>H</kbd></strong> : Hold down to bring up some Help text which describes some controls available at the bottom of the screen.</p>
         <h2 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h2>
         <p><strong><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></strong></p>
         <h1 id="random_stuff"><span id="random_stuff" class="anchor"></span>What do the Random Stuff around your Note mean:<a class="fa fa-anchor" href="#random_stuff" onclick="event.stopPropagation()"></a></h1>

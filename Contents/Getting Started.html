@@ -26,12 +26,13 @@
 <body>
   <div id="app">
     <header>
+
       <navbar type="dark" class="temp-navbar">
-        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand">Dynamaker Guide Logo</a>
+        <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand"><img src="/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png" class="logo"></a>
         <li><a href="/dynamaker-guide/mainPg.html" class="nav-link">Contents</a></li>
         <li slot="right">
           <form class="navbar-form">
-            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+            <searchbar :data="searchData" placeholder="This Searchbar Works" :on-hit="searchCallback" menu-align-right></searchbar>
           </form>
         </li>
       </navbar>
@@ -65,10 +66,13 @@
               </div>
               <ul class="site-nav-dropdown-container site-nav-list">
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/">Topic 3a</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode">Edit Mode</a></div>
                 </li>
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/">Topic 3b</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a></div>
+                </li>
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Special%20Controls.html#BPM">BPM Change</a></div>
                 </li>
               </ul>
             </li>
@@ -80,21 +84,23 @@
       <div id="content-wrapper">
         <h1 id="getting-started"><span id="getting-started" class="anchor"></span>Getting Started<a class="fa fa-anchor" href="#getting-started" onclick="event.stopPropagation()"></a></h1>
         <p>Website Link: <a href="https://dynamaker.tunergames.com/">https://dynamaker.tunergames.com/</a></p>
-        <h6 id="welcome-to-the-unofficial-dynamaker-guide"><span id="welcome-to-the-unofficial-dynamaker-guide" class="anchor"></span>Welcome to the unofficial Dynamaker Guide!<a class="fa fa-anchor" href="#welcome-to-the-unofficial-dynamaker-guide" onclick="event.stopPropagation()"></a></h6>
+        <h5 id="welcome-to-the-unofficial-dynamaker-guide"><span id="welcome-to-the-unofficial-dynamaker-guide" class="anchor"></span>Welcome to the unofficial Dynamaker Guide!<a class="fa fa-anchor" href="#welcome-to-the-unofficial-dynamaker-guide" onclick="event.stopPropagation()"></a></h5>
         <p>This tool grants you the power to create a Dynamix chart for any song you envision a chart being made for, which is amazing! It is made by omegaPi some time ago.</p>
         <h2 id="step-1-getting-the-editor-to-fit-your-screen"><span id="step-1-getting-the-editor-to-fit-your-screen" class="anchor"></span>Step 1: Getting the Editor to fit your screen.<a class="fa fa-anchor" href="#step-1-getting-the-editor-to-fit-your-screen" onclick="event.stopPropagation()"></a></h2>
         <p>Use <em>Google Chrome</em> to visit the website.
-          Press &quot;F&quot; to go into Full-Screen mode. (Might have to press F11 as well so that everything is aligned.)</p>
+          Press <kbd>F</kbd> to go into Full-Screen mode. (Might have to press <kbd>F11</kbd> as well so that everything is aligned.)</p>
         <p><strong>If the website does not fit your screen:</strong></p>
-        <p>Set the <strong>Zoom</strong> of the website to 100%.
-          - (Setting is in the Chrome Dropdown menu at the top right, below the X close window button.)
-          If it still does not fit, try other zoom values like 80%.</p>
+        <p>Set the <strong>Zoom</strong> of the website to 100%.</p>
+        <ul>
+          <li>(Setting is in the Chrome Dropdown menu at the top right, below the X close window button.)
+            If it still does not fit, try other zoom values like 80%.</li>
+        </ul>
         <h2 id="step-2-load-your-music-and-map-files"><span id="step-2-load-your-music-and-map-files" class="anchor"></span>Step 2: Load your music (and map) files<a class="fa fa-anchor" href="#step-2-load-your-music-and-map-files" onclick="event.stopPropagation()"></a></h2>
         <p>If you are creating a new map, only load the music file, then press <strong>New Map</strong>.
-          - Press <em>Audio/Video Browse</em> to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing.</p>
+          - Press <em>Audio/Video Browse</em> to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing even if your mouse pointer appears to be pointing at the button.</p>
         <p>If you are editing an existing map, load both the map file and audio file.</p>
         <h2 id="step-3-new-map-setup"><span id="step-3-new-map-setup" class="anchor"></span>Step 3: New Map Setup<a class="fa fa-anchor" href="#step-3-new-map-setup" onclick="event.stopPropagation()"></a></h2>
-        <p>Find the BPM of the song from other sources (eg Osu!), then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the <strong>&quot;O&quot;</strong> and <strong>&quot;P&quot;</strong> keys.</p>
+        <p>Find the BPM of the song from other sources (eg Osu!), then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the <strong><kbd>O</kbd></strong> and <strong><kbd>P</kbd></strong> keys.</p>
         <ul>
           <li>Beat Per Minute is the BPM of the song.</li>
           <li>Bars Per Minute is the BPM divided by the Time signature of the song (Number of Beats in 1 Bar)</li>
@@ -107,9 +113,9 @@
         </ul>
         <h2 id="step-4-create-map"><span id="step-4-create-map" class="anchor"></span>Step 4: Create Map<a class="fa fa-anchor" href="#step-4-create-map" onclick="event.stopPropagation()"></a></h2>
         <p>Press the Start button.
-          Change the offset of your song by using the <strong>O</strong> and <strong>P</strong> buttons.
-          <strong>O</strong> makes notes come later.
-          <strong>P</strong> makes notes come earlier.
+          Change the offset of your song by using the <strong><kbd>O</kbd></strong> and <strong><kbd>P</kbd></strong> buttons.
+          <strong><kbd>O</kbd></strong> makes notes come later.
+          <strong><kbd>P</kbd></strong> makes notes come earlier.
         </p>
         <h1 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h1>
         <p><strong><a href="/dynamaker-guide/Contents/Controls%20Nav.html">Controls - Navigation and Charting</a></strong></p>
