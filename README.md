@@ -2,6 +2,15 @@
 
 <b>Dynamix Fanmade Chart Tutorial using Dynamaker, for Dynamite</b>
 
+<h2>Please click this link to get to the new updated guide that is on an actual website. </h2>
+[The New Updated Guide is here](https://tlchicken.github.io/dynamaker-guide/)
+
+
+
+
+
+<h1>OLD GUIDE:</h1>
+
 This repo contains a short guide for OmegaPi's DynaMaker Chart Editor. (originally called Dynaremix)
 Dynamaker is a fan-made Dynamix Chart Editor tool that is a god-send because it gives random people like us the ability to create and play Dynamix charts which is almost impossible to do otherwise without prior related programming knowledge. The charts created can be uploaded onto Dynamite for testing.
 
@@ -35,4 +44,3 @@ I had mostly written 1 year ago on 7 June 2019 for one of my friends, but I upda
 **[BPM Change](/Contents/Special%20Controls.md/#BPM)**
 
 Thank you.
-
