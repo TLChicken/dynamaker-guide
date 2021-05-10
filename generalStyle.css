@@ -19,12 +19,12 @@
 }
 
 @font-face {
-  font-family: "Orbitron";
-  src: url("Orbitron.otf");
+  font-family: "Orbitron Black";
+  src: url("Orbitron-Black.ttf");
 }
 
 .OrbitronTxtContainer {
-	font-family: Orbitron;
+	font-family: Orbitron Black;
 }
 
 .DynamixTxtContainer {
