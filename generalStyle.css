@@ -12,3 +12,26 @@
 	padding: 3px 4px;
 	white-space: nowrap;
 }
+
+@font-face {
+  font-family: "Dynamix";
+  src: url("Fonts/DynamixFeatureStandard.ttf");
+}
+
+@font-face {
+  font-family: "Orbitron";
+  src: url("Orbitron.otf");
+}
+
+.OrbitronTxtContainer {
+	font-family: Orbitron;
+}
+
+.DynamixTxtContainer {
+	font-family: Dynamix;
+}
+
+/*body {
+  font-family: Dynamix;
+  font-family: Orbitron;
+}*/

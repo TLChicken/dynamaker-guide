@@ -29,7 +29,7 @@
 
       <navbar type="dark" class="temp-navbar">
         <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand"><img src="/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png" class="logo"></a>
-        <li><a href="/dynamaker-guide/mainPg.html" class="nav-link">Contents</a></li>
+        <li><a href="/dynamaker-guide/mainPg.html" class="nav-link DynamixTxtContainer">Contents</a></li>
         <li slot="right">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="This Searchbar Works" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -40,48 +40,51 @@
     <div id="flex-body">
       <nav id="site-nav" class="navbar navbar-light bg-transparent">
         <div class="border-right-grey nav-inner position-sticky slim-scroll">
-          <ul class="site-nav-list site-nav-list-root">
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/index.html">Dynamaker Guide</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/mainPg.html">Contents Page</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Getting%20Started.html">Getting Started</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Controls%20Nav.html">Controls and Navigation</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Special%20Controls.html">Special Controls</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Others
-                <i class="site-nav-dropdown-btn-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
-                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i>
-              </div>
-              <ul class="site-nav-dropdown-container site-nav-list">
-                <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode">Edit Mode</a></div>
-                </li>
-                <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a></div>
-                </li>
-                <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Special%20Controls.html#BPM">BPM Change</a></div>
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <div class="OrbitronTxtContainer">
+            <ul class="site-nav-list site-nav-list-root">
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/index.html">Dynamaker Guide</a></div>
+              </li>
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/mainPg.html">Contents Page</a></div>
+              </li>
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Getting%20Started.html">Getting Started</a></div>
+              </li>
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Controls%20Nav.html">Controls and Navigation</a></div>
+              </li>
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></div>
+              </li>
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Special%20Controls.html">Special Controls</a></div>
+              </li>
+              <li>
+                <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Others
+                  <i class="site-nav-dropdown-btn-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
+                    <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i>
+                </div>
+                <ul class="site-nav-dropdown-container site-nav-list">
+                  <li>
+                    <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode">Edit Mode</a></div>
+                  </li>
+                  <li>
+                    <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a></div>
+                  </li>
+                  <li>
+                    <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/Contents/Special%20Controls.html#BPM">BPM Change</a></div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
         </div>
       </nav>
 
 
       <div id="content-wrapper">
+        <link rel="stylesheet" href="/dynamaker-guide/generalStyle.css">
         <h1 id="getting-started"><span id="getting-started" class="anchor"></span>Getting Started<a class="fa fa-anchor" href="#getting-started" onclick="event.stopPropagation()"></a></h1>
         <p>Website Link: <a href="https://dynamaker.tunergames.com/">https://dynamaker.tunergames.com/</a></p>
         <h5 id="welcome-to-the-unofficial-dynamaker-guide"><span id="welcome-to-the-unofficial-dynamaker-guide" class="anchor"></span>Welcome to the unofficial Dynamaker Guide!<a class="fa fa-anchor" href="#welcome-to-the-unofficial-dynamaker-guide" onclick="event.stopPropagation()"></a></h5>
