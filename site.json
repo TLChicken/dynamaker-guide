@@ -1,0 +1,29 @@
+{
+  "baseUrl": "/dynamaker-guide",
+  "titlePrefix": "",
+  "ignore": [
+    "_markbind/layouts/*",
+    "_markbind/logs/*",
+    "_site/*",
+    "site.json",
+    "*.md",
+    "*.mbd",
+    "*.mbdf",
+    "*.njk",
+    ".git/*",
+    "OLDContents/*"
+  ],
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "Dynamaker Guide",
+      "searchable": "yes"
+    },
+    {
+      "glob": ["**/index.md", "**/*.+(md|mbd)"]
+    }
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}

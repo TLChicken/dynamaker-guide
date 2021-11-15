@@ -1,0 +1,137 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "Contents/Controls Nav.md",
+      "title": "",
+      "headings": {
+        "basic-controls": "Basic Controls",
+        "navigation": "Navigation",
+        "charting": "Charting",
+        "mouse": "Mouse:",
+        "keyboard": "Keyboard:",
+        "edit_mode": "EDIT Mode",
+        "next": "Next:",
+        "random_stuff": "What do the Random Stuff around your Note mean:"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Contents/Getting Started.md",
+      "title": "",
+      "headings": {
+        "getting-started": "Getting Started",
+        "step-1-getting-the-editor-to-fit-your-screen": "Step 1: Getting the Editor to fit your screen.",
+        "step-2-load-your-music-and-map-files": "Step 2: Load your music (and map) files",
+        "step-3-new-map-setup": "Step 3: New Map Setup",
+        "step-4-create-map": "Step 4: Create Map",
+        "next": "Next:",
+        "to-save-your-chart": "TO SAVE YOUR CHART"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Contents/Placing Notes.md",
+      "title": "",
+      "headings": {
+        "placing-down-some-notes": "Placing Down Some Notes!",
+        "niche": "Niche Stuff Section",
+        "confusing-numbers-around-the-notes": "Confusing Numbers around the Notes",
+        "multi-colour": "Multi-colour Squares at middle of notes and what it represents:",
+        "unknown-squares": "Unknown Squares:",
+        "hyints": "HYINTS:",
+        "Troubleshooting": "Troubleshooting"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Contents/Special Controls.md",
+      "title": "",
+      "headings": {
+        "other-controls-you-might-have-never-knew": "Other Controls you might have never knew",
+        "undo-and-redo-save-xml-before-using-might-crash-dynamaker": " Undo & Redo - SAVE XML BEFORE USING - MIGHT CRASH DYNAMAKER ",
+        "niche-controls": "Niche Controls",
+        "confusing-until-you-try-it-out": "Confusing until you Try It Out.",
+        "other-controls": "Other Controls",
+        "only-in-dynaremix-an-older-version-of-dynamaker-the-other-dynaremixv3-version": "Only in Dynaremix (An older Version of Dynamaker / The other dynaremixv3 Version)",
+        "BPM": "BPM Change",
+        "to-access-bpm-change-mode": "To access BPM Change Mode",
+        "placing-down-bpm-change-object": "Placing down BPM Change Object",
+        "how-to-use-properly": "How to use properly:"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "OLDContents/Controls Nav.md",
+      "title": "",
+      "headings": {
+        "basic-controls": "Basic Controls",
+        "navigation": "Navigation",
+        "charting": "Charting",
+        "what-do-the-random-stuff-around-your-note-mean-when-in-placing-down-notes-mode": "What do the random stuff around your note mean when in placing down notes mode:"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "OLDContents/Getting Started.md",
+      "title": "",
+      "headings": {
+        "getting-started": "Getting Started",
+        "step-1-getting-the-editor-to-fit-your-screen": "Step 1: Getting the Editor to fit your screen.",
+        "step-2-load-your-music-and-map-files": "Step 2: Load your music (and map) files",
+        "step-3-new-map-setup": "Step 3: New Map Setup",
+        "step-4-create-map": "Step 4: Create Map",
+        "to-save-your-chart": "TO SAVE YOUR CHART"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "OLDContents/Placing Notes.md",
+      "title": "",
+      "headings": {
+        "placing-down-some-notes": "Placing Down Some Notes!",
+        "niche-stuff-section": "Niche Stuff Section",
+        "confusing-numbers-around-the-notes": "Confusing Numbers around the Notes",
+        "multi-color-squares-at-middle-of-notes-and-what-it-represents": "Multi-color Squares at middle of notes and what it represents:"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "OLDContents/Special Controls.md",
+      "title": "",
+      "headings": {
+        "niche-controls": "Niche Controls",
+        "confusing-until-you-try-it-out": "Confusing until you try it out."
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "README.md",
+      "title": "",
+      "headings": {
+        "dynamaker-guide": "dynamaker-guide",
+        "please-click-the-link-below-to-get-to-the-new-updated-guide-that-is-on-an-actual-website": "Please click the link below to get to the new updated guide that is on an actual website. ",
+        "old-guide": "OLD GUIDE:",
+        "contents": "Contents:",
+        "other-things": "Other Things:"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Dynamaker Guide",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "mainPg.md",
+      "title": "",
+      "headings": {
+        "dynamaker-guide": "dynamaker-guide",
+        "contents": "Contents:",
+        "other-things": "Other Things:"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}

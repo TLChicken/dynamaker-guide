@@ -32,7 +32,7 @@
         <li><a href="/dynamaker-guide/mainPg.html" class="nav-link DynamixTxtContainer">Contents</a></li>
         <li slot="right">
           <form class="navbar-form">
-            <searchbar :data="searchData" placeholder="This Searchbar Works" :on-hit="searchCallback" menu-align-right></searchbar>
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
           </form>
         </li>
       </navbar>
@@ -108,15 +108,15 @@
         <p><strong>Left Click</strong>: When in placing down notes mode (Press <strong><kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd></strong> on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)</p>
         <p><strong>Right Click</strong> : Opens the <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a>. (Right Click Menu Section To be Added.)</p>
         <h3 id="keyboard"><span id="keyboard" class="anchor"></span>Keyboard:<a class="fa fa-anchor" href="#keyboard" onclick="event.stopPropagation()"></a></h3>
-        <p><strong><kbd>🠗</kbd> / <kbd>🠔</kbd> / <kbd>🠖</kbd></strong> : Turns on/off the note guidelines for the respective sides.</p>
+        <p><strong><kbd>↓</kbd> / <kbd>←</kbd> / <kbd>→</kbd></strong> : Turns on/off the note guidelines for the respective sides.</p>
         <ul>
           <li>Press once to have it 50% transparent.</li>
           <li>Press second time to make it opaque.</li>
           <li>Press third time to turn off.</li>
         </ul>
         <h5 id="important-but-confusing-parts-below"><span id="important-but-confusing-parts-below" class="anchor"></span>Important but Confusing Parts Below:<a class="fa fa-anchor" href="#important-but-confusing-parts-below" onclick="event.stopPropagation()"></a></h5>
-        <p><kbd>🠕</kbd> : Switches the Active Side in the order of:</p>
-        <pre><code v-pre>Main Side (Down) 🠖 Left Side 🠖 Right Side
+        <p><kbd>↑</kbd> : Switches the Active Side in the order of:</p>
+        <pre><code v-pre>Main Side (Down) → Left Side → Right Side
 </code></pre>
         <p>The Active side is the side that you are editing. You use it to choose what side your notes get placed down on when left-clicking. While a certain side is active, the other 2 inactive sides will not be affected by anything you do on the active side. (Eg: Deleting Notes)</p>
         <p><strong><kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd></strong> : Selects Type of Note</p>
