@@ -2,8 +2,9 @@
 
 <b>Dynamix Fanmade Chart Tutorial using Dynamaker, for Dynamite</b>
 
-<h2>Please click this link to get to the new updated guide that is on an actual website. </h2>
-[The New Updated Guide is here](https://tlchicken.github.io/dynamaker-guide/)
+<h2>Please click the link below to get to the new updated guide that is on an actual website. </h2>
+
+The New Updated Guide is [HERE](https://tlchicken.github.io/dynamaker-guide/).
 
 
 
@@ -21,26 +22,26 @@ I had mostly written 1 year ago on 7 June 2019 for one of my friends, but I upda
 
 ## Contents:
 
-**[Getting Started](/Contents/Getting%20Started.md)**
+**[Getting Started](/OLDContents/Getting%20Started.md)**
 
-**[Controls - Navigation and Charting](/Contents/Controls%20Nav.md)**
+**[Controls - Navigation and Charting](/OLDContents/Controls%20Nav.md)**
 
-**[Placing Notes](/Contents/Placing%20Notes.md)**
+**[Placing Notes](/OLDContents/Placing%20Notes.md)**
 
-**[Special Controls](/Contents/Special%20Controls.md)**
+**[Special Controls](/OLDContents/Special%20Controls.md)**
 
-**[Troubleshooting](/Contents/Placing%20Notes.md/#Troubleshooting)** (Scroll Down a bit more because of the images)
+**[Troubleshooting](/OLDContents/Placing%20Notes.md/#Troubleshooting)** (Scroll Down a bit more because of the images)
 
 
 
 ### Other Things:
 
-**[EDIT Mode](/Contents/Controls%20Nav.md/#edit_mode)**
+**[EDIT Mode](/OLDContents/Controls%20Nav.md/#edit_mode)**
 
-**[Meaning of Numbers around your Note](/Contents/Placing%20Notes.md/#niche)**
+**[Meaning of Numbers around your Note](/OLDContents/Placing%20Notes.md/#niche)**
 
-**[Meaning of the Moving Lines around your Note](/Contents/Controls%20Nav.md/#random_stuff)**
+**[Meaning of the Moving Lines around your Note](/OLDContents/Controls%20Nav.md/#random_stuff)**
 
-**[BPM Change](/Contents/Special%20Controls.md/#BPM)**
+**[BPM Change](/OLDContents/Special%20Controls.md/#BPM)**
 
 Thank you.
