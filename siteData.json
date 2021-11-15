@@ -12,7 +12,7 @@
         "keyboard": "Keyboard:",
         "edit_mode": "EDIT Mode",
         "next": "Next:",
-        "random_stuff": "What do the Random Stuff around your Note mean:"
+        "random_stuff": "Things around the Note you are holding:"
       },
       "headingKeywords": {}
     },
@@ -39,7 +39,7 @@
         "confusing-numbers-around-the-notes": "Confusing Numbers around the Notes",
         "multi-colour": "Multi-colour Squares at middle of notes and what it represents:",
         "unknown-squares": "Unknown Squares:",
-        "hyints": "HYINTS:",
+        "hints": "HINTS:",
         "Troubleshooting": "Troubleshooting"
       },
       "headingKeywords": {}
@@ -48,16 +48,15 @@
       "src": "Contents/Special Controls.md",
       "title": "",
       "headings": {
-        "other-controls-you-might-have-never-knew": "Other Controls you might have never knew",
+        "controls-you-might-have-never-knew-about": "Controls you might have never knew about:",
         "undo-and-redo-save-xml-before-using-might-crash-dynamaker": " Undo & Redo - SAVE XML BEFORE USING - MIGHT CRASH DYNAMAKER ",
         "niche-controls": "Niche Controls",
-        "confusing-until-you-try-it-out": "Confusing until you Try It Out.",
         "other-controls": "Other Controls",
         "only-in-dynaremix-an-older-version-of-dynamaker-the-other-dynaremixv3-version": "Only in Dynaremix (An older Version of Dynamaker / The other dynaremixv3 Version)",
         "BPM": "BPM Change",
         "to-access-bpm-change-mode": "To access BPM Change Mode",
         "placing-down-bpm-change-object": "Placing down BPM Change Object",
-        "how-to-use-properly": "How to use properly:"
+        "how-to-use-bpm-change-properly": "How to use BPM Change properly:"
       },
       "headingKeywords": {}
     },
