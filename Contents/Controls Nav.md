@@ -53,7 +53,6 @@ _If you encounter the bug and want to recover your chart, follow the steps in th
 - Press third time to turn off.
 
 
-##### Important but Confusing Parts Below:
 
 <kbd>↑</kbd> : Switches the Active Side in the order of:
 
@@ -93,7 +92,7 @@ After selecting those notes you can right click to **Delete** or copy them. ( *Y
 **[Placing Notes]({{ baseUrl }}/Contents/Placing%20Notes.html)**
 
 
-<h1 id="random_stuff">What do the Random Stuff around your Note mean:</h1>
+<h1 id="random_stuff">Things around the Note you are holding:</h1>
 
 **White Line** : Graphically shows the column that your note will be placed in if you left click. This can be used to help you align your notes.
 
@@ -106,6 +105,6 @@ After selecting those notes you can right click to **Delete** or copy them. ( *Y
 
 **Confusing Numbers Around the Note** : See Niche Stuff Section in [Placing Notes](Placing%20Notes.html#niche).
 
-**Multi-Colour Squares at the centre of some notes**: See Multi-Colour Squares Section in [Placing Notes](Placing%20Notes.html#multi-colour).
+**Multi-Colour Squares at the Centre of some Notes**: See Multi-Colour Squares Section in [Placing Notes](Placing%20Notes.html#multi-colour).
 
 [Back to Main Page](../mainPg.html)

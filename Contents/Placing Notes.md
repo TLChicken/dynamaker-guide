@@ -42,7 +42,7 @@ This is a sample diagram of a note before you put it down:
                 <=============>
         *Horizontal Value*   *Note Size*
 
-**ATTENTION QUITE CONFUSING AT FIRST, DONT REALLY HAVE TO KNOW:**
+**CONFUSING INFO THAT YOU DON'T REALLY HAVE TO KNOW:**
 
 **Bar No. + x/y**: Bar No. is the bar of the song that you are about to place the note in. Exact timing depends on BPM of the song. (Music Theory)
 y is the number of sub intervals of the bar that the note can be snapped to (adjusted by **<kbd>C</kbd> / <kbd>V</kbd>**, recommend 4 or 8, use 12 to place at 1/3 intervals in bars)

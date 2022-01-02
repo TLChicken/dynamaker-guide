@@ -2,12 +2,14 @@
 
 <b>Dynamix Fanmade Chart Tutorial using Dynamaker, for Dynamite</b>
 
-<h2>Please click the link below to get to the new updated guide that is on an actual website. </h2>
+<h3>Please click the link below to get to the new updated guide that is on an actual website. </h3>
 
-The New Updated Guide is [HERE](https://tlchicken.github.io/dynamaker-guide/).
+The New Updated Guide is [<b><span style="font-size:150%;">HERE</soan></b>](https://tlchicken.github.io/dynamaker-guide/).
 
 
-
+<br>
+<br>
+<br>
 
 
 <h1>OLD GUIDE:</h1>

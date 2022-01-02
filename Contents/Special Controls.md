@@ -6,7 +6,7 @@ footer: footer.md
 
 <link rel="stylesheet" href="../generalStyle.css">
 
-# Other Controls you might have never knew
+# Controls you might have never knew about:
 
 <h3> Undo & Redo - SAVE XML BEFORE USING - MIGHT CRASH DYNAMAKER </h3>
 
@@ -77,7 +77,7 @@ While you are in **BPM Change** mode, hover your mouse over the bar that you wan
 
 
 
-### How to use properly:
+### How to use BPM Change properly:
 
 Will be updated again very soon in the future together with a Right Click Menu page.
 
