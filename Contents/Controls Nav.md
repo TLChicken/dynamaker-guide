@@ -11,7 +11,7 @@ footer: footer.md
 
 ## Navigation
 
-Keyboard:
+<br>
 
 **<kbd>A</kbd> / <kbd>D</kbd> / Scroll Wheel** : Move Forwards / Backwards in song by 1 second. (The chart scrolls up or down.)
 

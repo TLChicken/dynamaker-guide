@@ -31,6 +31,31 @@
 	font-family: Dynamix;
 }
 
+.casual-color {
+	background-color: #007300;
+}
+
+.normal-color {
+	background-color: #439090;
+}
+
+.hard-color {
+	background-color: #D80000;
+}
+
+.mega-color {
+	background-color: #BE19BE;
+}
+
+.giga-color {
+	background-color: #9D9D9D;
+}
+
+.horneee-color {
+	background-color: #D8AA45;
+}
+
+
 /*body {
   font-family: Dynamix;
   font-family: Orbitron;

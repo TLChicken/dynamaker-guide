@@ -48,19 +48,54 @@ If you are editing an existing map, load both the map file and audio file.
 
 ## Step 3: New Map Setup
 
-Find the BPM of the song from other sources (eg Osu!), then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the **<kbd>O</kbd>** and **<kbd>P</kbd>** keys.
+Find the BPM of the song from other sources (eg Osu!), then enter it in the Beat Per Minute or Bar Per Minute box. Then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the **<kbd>O</kbd>** and **<kbd>P</kbd>** keys.
 
 <box type="info">
-<li> Beat Per Minute is the BPM of the song. </li>
+<p>Entering the BPM of the song: <b>(Please check which box is present in your version of Dynamaker and enter accordingly.)</b></p>
+<li>Beat Per Minute is the BPM of the song. </li>
 <li>Bars Per Minute is the BPM divided by the Time signature of the song (Number of Beats in 1 Bar)</li>
+<li>Numbers entered can contain a decimal point.</li>
 </box>
 
-##### Left Side and Right Side Settings:
 
-  - MIXER: Side has Sliding Bar and can only contain Chain Notes
-  - PAD: Side can only contain Tap and Hold Notes
-  - MULTI: Side can contain all 3 types of notes. (This type of side cannot be found in Dynamix)
+<panel header="Additional Information about the Create Map Menu" alt="Create Map Menu - Additional Information" type="info" minimized>
+    <box><h5 style="font-family: Dynamix">Music Name</h5>
+        Enter the name of the song. It will display at the bottom left hand corner of the screen when playing the map.
+    </box>	
+    <box><h5 style="font-family: Dynamix">Difficulty</h5>
+        Choose the appropriate difficulty that you intend to chart using the dropdown menu.
+        <div>
+            Available Difficulties:
+<h3>
+            {{ casual_badge }}
+            {{ normal_badge }}
+            {{ hard_badge }}
+            {{ mega_badge }}
+            {{ giga_badge }}
+</h3>
+        </div>
+        <panel header="Additional Difficulties" minimized>
+            <box type="info"><p style="font-family: Dynamix">Custom / None</p>
+                There will be no difficulty graphic shown at the bottom left corner of the screen if this is chosen.
+            </box>
+            <box type="warning"><p style="font-family: Dynamix">HORNEEE - Only available in EXE Version</p>
+                <h3> {{ horneee_badge }} </h3>
+                This difficulty is used for meme/insane/funny charts, as a reference to Homeee, Dynamix's Official Charter.
+            </box>
+        </panel>
+    </box>
+    <box><h5 style="font-family: Dynamix">Left Side and Right Side</h5>
+      <li> <span class="DynamixTxtContainer">MIXER:</span> Side has Sliding Bar and can only contain Chain Notes </li>
+      <li> <span class="DynamixTxtContainer">PAD:</span> Side can only contain Tap and Hold Notes </li>
+      <li> <span class="DynamixTxtContainer">MULTI:</span> Side can contain all 3 types of notes. (This type of side cannot be found in Dynamix) </li>
+    </box>
+    <box><h5 style="font-family: Dynamix">Offset</h5>
+        <li> Use either <span class="DynamixTxtContainer">OFFSET [sec]</span> or <span class="DynamixTxtContainer">OFFSET [bar]</span> and not both, if both are available.</li>
+        <li>You can change the offset again later while editing using <kbd>O</kbd> or <kbd>P</kbd>.</li>
+    </box>
+</panel>
 
+<br>
 
 ## Step 4: Create Map
 
@@ -72,9 +107,9 @@ Change the offset of your song by using the **<kbd>O</kbd>** and **<kbd>P</kbd>*
 
 ## Next:
 
-**[Controls - Navigation and Charting]({{ baseUrl }}/Contents/Controls%20Nav.html)**
+**[Controls - Navigation and Charting]({{ baseUrl }}/Contents/Controls%20Nav.html)** {{ two_star }}
 
-**[Placing Notes]({{ baseUrl }}/Contents/Placing%20Notes.html)**
+**[Placing Notes]({{ baseUrl }}/Contents/Placing%20Notes.html)** {{ three_star }}
 
 
 ## TO SAVE YOUR CHART
@@ -91,8 +126,10 @@ When you save it in this form, the next time you open DynaMaker you only need to
 
 </panel>
 
+<br><br>
 
 
-[Back to Main Page](../mainPg.html)
+
+**[Back to Main Page](../mainPg.html)**
 
 
