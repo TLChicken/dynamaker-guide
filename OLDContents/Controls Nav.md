@@ -82,7 +82,7 @@ After selecting those notes you can right click to **Delete** or copy them. ( *I
 
 ## Next:
 
-**[Placing Notes](/Contents/Placing%20Notes.md)**
+**[Placing Notes](Placing%20Notes.md)**
 
 
 <h1 id="random_stuff">What do the Random Stuff around your Note mean:</h1>

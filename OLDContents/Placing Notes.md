@@ -19,7 +19,7 @@ Press **Up Arrow** to change the **Active Side**, which is the side that you are
 Press **4** to go into **EDIT Mode** if you need to select and move or delete notes that are already placed. (More in Navigation Controls)
 
 
-Be sure to see the [Navigation Controls](Controls%20Nav) Section so you know how to move around the song.
+Be sure to see the [Navigation Controls](Controls%20Nav.md) Section so you know how to move around the song.
 
 
 
@@ -58,7 +58,7 @@ Will update again in the future.
 **White Square**:
 Shows up in EDIT Mode (When you press **4**) when your mouse is hovered near a note. This note will be selected if you double click.
 
-![Pic Showing Blue, Red and Purple Square on Note](Images/Blue%20Red%20Purple%20Squares.jpg?raw=true "Blue, Red and Purple Square")
+![Pic Showing Blue, Red and Purple Square on Note](/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true "Blue, Red and Purple Square")
 
 **Blue Square**:
 This square means that the current size you have selected (Size of the next note you place down if you do not change its size) is the same as the notes that have the blue square on them. When you see blue squares on multiple notes, note that they all have the same size.
@@ -71,7 +71,7 @@ If a note has a red square it means that this note is in the same column as the 
 
 ### Unknown Squares:
 
-![Pic Showing Yellow and Grey Square on Note](Images/Yellow%20and%20Grey%20Square.jpg?raw=true "Yellow and Grey Square")
+![Pic Showing Yellow and Grey Square on Note](/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true "Yellow and Grey Square")
 
 **Yellow Square**: Rarely shows up, I do not know why it appears, seems like it does for no reason.
 

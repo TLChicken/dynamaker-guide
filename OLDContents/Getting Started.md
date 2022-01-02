@@ -51,9 +51,9 @@ Change the offset of your song by using the **O** and **P** buttons.
 
 # Next:
 
-**[Controls - Navigation and Charting](/Contents/Controls%20Nav.md)**
+**[Controls - Navigation and Charting](Controls%20Nav.md)**
 
-**[Placing Notes](/Contents/Placing%20Notes.md)**
+**[Placing Notes](Placing%20Notes.md)**
 
 
 ## TO SAVE YOUR CHART
