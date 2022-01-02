@@ -3762,3 +3762,969 @@
 2022-01-02T16:31:34.234Z - info: Site data built
 2022-01-02T16:31:34.234Z - info: Pages rebuilt
 2022-01-02T16:31:34.235Z - info: Website regeneration complete! Total build time: 0.072s
+2022-01-02T16:34:19.550Z - info: [12:34:19 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:34:20.558Z - info: Rebuilding 1 pages
+2022-01-02T16:34:20.577Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:34:20.578Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:20.578Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:20.578Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:20.579Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:20.579Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:20.580Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:20.581Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:20.583Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:20.584Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:20.584Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:20.612Z - info: Site data built
+2022-01-02T16:34:20.612Z - info: Pages rebuilt
+2022-01-02T16:34:20.613Z - info: Website regeneration complete! Total build time: 0.056s
+2022-01-02T16:34:25.576Z - info: [12:34:25 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:34:26.582Z - info: Rebuilding 1 pages
+2022-01-02T16:34:26.598Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:34:26.599Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:26.599Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:26.600Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:26.600Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:26.600Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:26.601Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:34:26.602Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:26.603Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:26.604Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:26.604Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:34:26.633Z - info: Site data built
+2022-01-02T16:34:26.633Z - info: Pages rebuilt
+2022-01-02T16:34:26.634Z - info: Website regeneration complete! Total build time: 0.051s
+2022-01-02T16:35:23.313Z - info: [12:35:23 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:35:24.316Z - info: Rebuilding 1 pages
+2022-01-02T16:35:24.337Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:35:24.338Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:24.338Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:24.338Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:24.339Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:24.339Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:24.340Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:24.343Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:24.344Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:24.344Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:24.379Z - info: Site data built
+2022-01-02T16:35:24.379Z - info: Pages rebuilt
+2022-01-02T16:35:24.379Z - info: Website regeneration complete! Total build time: 0.063s
+2022-01-02T16:35:30.818Z - info: [12:35:30 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:35:31.832Z - info: Rebuilding 1 pages
+2022-01-02T16:35:31.851Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:35:31.851Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:31.852Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:31.853Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:31.853Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:31.853Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:31.854Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:31.856Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:31.856Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:31.857Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:31.884Z - info: Site data built
+2022-01-02T16:35:31.885Z - info: Pages rebuilt
+2022-01-02T16:35:31.885Z - info: Website regeneration complete! Total build time: 0.054s
+2022-01-02T16:35:47.326Z - info: [12:35:47 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:35:48.331Z - info: Rebuilding 1 pages
+2022-01-02T16:35:48.349Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:35:48.351Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:48.351Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:48.352Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:48.352Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:48.352Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:48.353Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:35:48.355Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:48.355Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:48.356Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:35:48.387Z - info: Site data built
+2022-01-02T16:35:48.387Z - info: Pages rebuilt
+2022-01-02T16:35:48.387Z - info: Website regeneration complete! Total build time: 0.056s
+2022-01-02T16:36:30.010Z - info: Website generation started at 12:36:29 AM
+2022-01-02T16:36:30.103Z - info: Building assets...
+2022-01-02T16:36:30.239Z - info: Assets built
+2022-01-02T16:36:30.239Z - info: Generating pages...
+2022-01-02T16:36:30.339Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:36:30.340Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.340Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.341Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.341Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.342Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.342Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.346Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:36:30.346Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:36:30.346Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:36:30.410Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:36:30.411Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.412Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.412Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.412Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.413Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.413Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.414Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:36:30.415Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:36:30.416Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:36:30.416Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:36:30.417Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:36:30.417Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Right%20Click%20Menu.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:36:30.436Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:36:30.437Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.437Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.437Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.438Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.438Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.438Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.443Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Getting Started.md'
+2022-01-02T16:36:30.444Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Getting Started.md'
+2022-01-02T16:36:30.461Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:36:30.461Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.462Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.462Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.463Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.463Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.464Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.619Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:36:30.620Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.620Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.620Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.621Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.621Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.621Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:36:30.623Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Old%20Guide%20v1.0.txt' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.624Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.624Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.625Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.625Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.625Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.626Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.626Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.626Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#random_stuff' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.627Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:36:30.640Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.641Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.641Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.641Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.642Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.642Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.642Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.643Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.679Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.680Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.680Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.680Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.681Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.681Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.681Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.682Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.682Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Start%20Screen.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\index.md'
+2022-01-02T16:36:30.689Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.689Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.690Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.690Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.690Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.692Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Old%20Guide%20v1.0.txt' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\README.md'
+2022-01-02T16:36:30.752Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.752Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.753Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.753Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.753Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.754Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.754Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.754Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.755Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:36:30.756Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:36:30.756Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:36:30.756Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:36:30.776Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.776Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.778Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.778Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.780Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.780Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.780Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.781Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.802Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.803Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.803Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:36:30.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.805Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:36:30.852Z - info: Pages built
+2022-01-02T16:36:31.016Z - info: Site data built
+2022-01-02T16:36:31.017Z - info: Website generation complete! Total build time: 1.031s
+2022-01-02T16:36:31.035Z - info: Serving "D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_site" at http://127.0.0.1:8080
+2022-01-02T16:36:31.035Z - info: Press CTRL+C to stop ...
+2022-01-02T16:37:13.930Z - info: [12:37:13 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:37:14.937Z - info: Rebuilding 1 pages
+2022-01-02T16:37:14.996Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:37:14.997Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:14.998Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:14.998Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:14.998Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:14.999Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:14.999Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:15.001Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:15.003Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:15.003Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:15.004Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:15.073Z - info: Site data built
+2022-01-02T16:37:15.073Z - info: Pages rebuilt
+2022-01-02T16:37:15.073Z - info: Website regeneration complete! Total build time: 0.136s
+2022-01-02T16:37:27.630Z - info: [12:37:27 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:37:28.644Z - info: Rebuilding 1 pages
+2022-01-02T16:37:28.668Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:37:28.669Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:28.669Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:28.670Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:28.670Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:28.670Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:28.671Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:28.672Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:28.674Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:28.676Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:28.677Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:28.722Z - info: Site data built
+2022-01-02T16:37:28.722Z - info: Pages rebuilt
+2022-01-02T16:37:28.723Z - info: Website regeneration complete! Total build time: 0.078s
+2022-01-02T16:37:48.064Z - info: [12:37:48 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:37:49.069Z - info: Rebuilding 1 pages
+2022-01-02T16:37:49.088Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:37:49.089Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:49.089Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:49.089Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:49.090Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:49.090Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:49.090Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:37:49.091Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:49.093Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:49.094Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:49.094Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:37:49.158Z - info: Site data built
+2022-01-02T16:37:49.159Z - info: Pages rebuilt
+2022-01-02T16:37:49.159Z - info: Website regeneration complete! Total build time: 0.091s
+2022-01-02T16:38:42.665Z - info: [12:38:42 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:38:43.673Z - info: Rebuilding 1 pages
+2022-01-02T16:38:43.690Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:38:43.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:38:43.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:38:43.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:38:43.692Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:38:43.692Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:38:43.692Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:38:43.694Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:38:43.695Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:38:43.695Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:38:43.696Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:38:43.733Z - info: Site data built
+2022-01-02T16:38:43.733Z - info: Pages rebuilt
+2022-01-02T16:38:43.733Z - info: Website regeneration complete! Total build time: 0.061s
+2022-01-02T16:43:43.506Z - info: [12:43:43 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:43:44.516Z - info: Rebuilding 1 pages
+2022-01-02T16:43:44.535Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:43:44.536Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:43:44.536Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:43:44.537Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:43:44.537Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:43:44.537Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:43:44.538Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:43:44.539Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:43:44.540Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:43:44.540Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:43:44.541Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:43:44.574Z - info: Site data built
+2022-01-02T16:43:44.574Z - info: Pages rebuilt
+2022-01-02T16:43:44.575Z - info: Website regeneration complete! Total build time: 0.058s
+2022-01-02T16:44:07.972Z - info: [12:44:07 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:44:08.977Z - info: Rebuilding 1 pages
+2022-01-02T16:44:08.999Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:44:09.000Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:44:09.000Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:44:09.001Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:44:09.002Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:44:09.003Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:44:09.003Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:44:09.004Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:44:09.007Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:44:09.008Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:44:09.011Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:44:09.047Z - info: Site data built
+2022-01-02T16:44:09.048Z - info: Pages rebuilt
+2022-01-02T16:44:09.048Z - info: Website regeneration complete! Total build time: 0.072s
+2022-01-02T16:47:24.586Z - info: [12:47:24 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:47:25.600Z - info: Rebuilding 1 pages
+2022-01-02T16:47:25.618Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:47:25.619Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:25.619Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:25.619Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:25.620Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:25.620Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:25.620Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:25.622Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:25.625Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:25.625Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:25.626Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:25.674Z - info: Site data built
+2022-01-02T16:47:25.674Z - info: Pages rebuilt
+2022-01-02T16:47:25.674Z - info: Website regeneration complete! Total build time: 0.075s
+2022-01-02T16:47:34.295Z - info: [12:47:34 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:47:35.310Z - info: Rebuilding 1 pages
+2022-01-02T16:47:35.327Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:47:35.327Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:35.328Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:35.328Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:35.328Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:35.329Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:35.329Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:35.330Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:35.332Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:35.333Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:35.333Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:35.369Z - info: Site data built
+2022-01-02T16:47:35.369Z - info: Pages rebuilt
+2022-01-02T16:47:35.369Z - info: Website regeneration complete! Total build time: 0.06s
+2022-01-02T16:47:39.724Z - info: [12:47:39 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:47:40.727Z - info: Rebuilding 1 pages
+2022-01-02T16:47:40.745Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:47:40.745Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:40.746Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:40.746Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:40.747Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:40.747Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:40.748Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:47:40.749Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:40.751Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:40.752Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:40.752Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:47:40.786Z - info: Site data built
+2022-01-02T16:47:40.786Z - info: Pages rebuilt
+2022-01-02T16:47:40.787Z - info: Website regeneration complete! Total build time: 0.06s
+2022-01-02T16:48:07.015Z - info: [12:48:07 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:48:08.023Z - info: Rebuilding 1 pages
+2022-01-02T16:48:08.041Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:48:08.042Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:08.042Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:08.042Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:08.043Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:08.043Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:08.043Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:08.045Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:08.047Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:08.047Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:08.048Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:08.085Z - info: Site data built
+2022-01-02T16:48:08.086Z - info: Pages rebuilt
+2022-01-02T16:48:08.086Z - info: Website regeneration complete! Total build time: 0.064s
+2022-01-02T16:48:19.135Z - info: [12:48:19 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:48:20.142Z - info: Rebuilding 1 pages
+2022-01-02T16:48:20.161Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:48:20.162Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:20.162Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:20.162Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:20.164Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:20.164Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:20.165Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:20.167Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:20.168Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:20.169Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:20.169Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:20.201Z - info: Site data built
+2022-01-02T16:48:20.201Z - info: Pages rebuilt
+2022-01-02T16:48:20.201Z - info: Website regeneration complete! Total build time: 0.059s
+2022-01-02T16:48:27.288Z - info: [12:48:27 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:48:28.297Z - info: Rebuilding 1 pages
+2022-01-02T16:48:28.314Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:48:28.315Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:28.315Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:28.316Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:28.316Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:28.316Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:28.317Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:48:28.318Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:28.320Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:28.320Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:28.321Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:48:28.348Z - info: Site data built
+2022-01-02T16:48:28.348Z - info: Pages rebuilt
+2022-01-02T16:48:28.349Z - info: Website regeneration complete! Total build time: 0.052s
+2022-01-02T16:49:23.191Z - info: [12:49:23 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:49:24.196Z - info: Rebuilding 1 pages
+2022-01-02T16:49:24.216Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:49:24.218Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:49:24.218Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:49:24.219Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:49:24.219Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:49:24.219Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:49:24.220Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:49:24.221Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:49:24.223Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:49:24.224Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:49:24.224Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:49:24.264Z - info: Site data built
+2022-01-02T16:49:24.264Z - info: Pages rebuilt
+2022-01-02T16:49:24.264Z - info: Website regeneration complete! Total build time: 0.069s
+2022-01-02T16:50:45.894Z - info: [12:50:45 AM] Reload for file change: D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md
+2022-01-02T16:50:46.903Z - info: Rebuilding 1 pages
+2022-01-02T16:50:46.922Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:50:46.923Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:50:46.923Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:50:46.924Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:50:46.924Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:50:46.925Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:50:46.925Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:50:46.926Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:50:46.928Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:50:46.929Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:50:46.929Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:50:46.966Z - info: Site data built
+2022-01-02T16:50:46.966Z - info: Pages rebuilt
+2022-01-02T16:50:46.967Z - info: Website regeneration complete! Total build time: 0.063s
+2022-01-02T16:51:21.177Z - info: Website generation started at 12:51:21 AM
+2022-01-02T16:51:21.280Z - info: Building assets...
+2022-01-02T16:51:21.401Z - info: Assets built
+2022-01-02T16:51:21.402Z - info: Generating pages...
+2022-01-02T16:51:21.510Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:51:21.511Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.512Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.512Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.513Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.513Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.514Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.516Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:51:21.519Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:51:21.520Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:51:21.520Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Controls Nav.md'
+2022-01-02T16:51:21.537Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:51:21.540Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.540Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.540Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.541Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.541Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.542Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.567Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:51:21.568Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.569Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.569Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.569Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.570Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.570Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.576Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Getting Started.md'
+2022-01-02T16:51:21.576Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Getting Started.md'
+2022-01-02T16:51:21.689Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:51:21.689Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.690Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.690Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.691Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.692Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.692Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:51:21.693Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:51:21.694Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:51:21.696Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:51:21.696Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:51:21.697Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Right%20Click%20Menu.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\Contents\Placing Notes.md'
+2022-01-02T16:51:21.799Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\headers\header.md'
+2022-01-02T16:51:21.800Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.800Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.801Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.801Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.801Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.802Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\navigation\main-nav.md'
+2022-01-02T16:51:21.802Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Old%20Guide%20v1.0.txt' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Getting%20Started.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.805Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.805Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.805Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.806Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#edit_mode' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.806Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Placing%20Notes.html#niche' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.806Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Controls%20Nav.html#random_stuff' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.807Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Special%20Controls.html#BPM' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\mainPg.md'
+2022-01-02T16:51:21.818Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.818Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.818Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.820Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.820Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.821Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.821Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.821Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.822Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Old%20Guide%20v1.0.txt' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\README.md'
+2022-01-02T16:51:21.831Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.831Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.832Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.832Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.832Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.832Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.833Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.833Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.833Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Start%20Screen.png' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\index.md'
+2022-01-02T16:51:21.883Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.883Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.883Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.884Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.884Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.885Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.885Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.885Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.934Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.934Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.934Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.935Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.935Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.935Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.936Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.936Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.937Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:51:21.937Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Blue%20Red%20Purple%20Squares.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:51:21.938Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:51:21.938Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/Contents/Images/Yellow%20and%20Grey%20Square.jpg?raw=true' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\OLDContents\Placing Notes.md'
+2022-01-02T16:51:21.959Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.959Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.959Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.960Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.961Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.961Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.962Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.962Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.971Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.972Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.972Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.973Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\header.md'
+2022-01-02T16:51:21.973Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic1.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.973Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic2.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.974Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3a.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:21.974Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/dynamaker-guide/contents/topic3b.html' found in file 'D:\Elvis's Items 2\Projects TLC\On GitHub\Dynamaker Guide\_markbind\layouts\default\navigation.md'
+2022-01-02T16:51:22.019Z - info: Pages built
+2022-01-02T16:51:22.087Z - info: Site data built
+2022-01-02T16:51:22.087Z - info: Website generation complete! Total build time: 0.935s
+2022-01-02T16:51:22.087Z - info: Build success!
