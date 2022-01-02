@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.18.1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
+  <link rel="stylesheet" href="markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.min.css">
+  <script src="markbind/js/polyfill.min.js"></script>
+  <script src="markbind/js/vue.min.js"></script>
+  <script src="markbind/js/markbind.min.js"></script>
+  <script src="markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/dynamaker-guide/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/dynamaker-guide/index.html" title="Home" class="navbar-brand">Your Logo</a>
+        <li><a href="/dynamaker-guide/contents/topic1.html" class="nav-link">Topic 1</a></li>
+        <li><a href="/dynamaker-guide/contents/topic2.html" class="nav-link">Topic 2</a></li>
+        <div class="nav-link temp-dropdown-placeholder">Topic 3</div>
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">Topic 3</template>
+          <li><a href="/dynamaker-guide/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
+          <li><a href="/dynamaker-guide/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+        </dropdown>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/index.html">Home 🏠</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic1.html">Topic 1</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic2.html">Topic 2</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Topic 3
+                <i class="site-nav-dropdown-btn-icon site-nav-rotate-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
+                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i>
+              </div>
+              <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3a.html">Topic 3a</a></div>
+                </li>
+                <li>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/dynamaker-guide/contents/topic3b.html">Topic 3b</a></div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <h1 id="dynamaker-guide"><span id="dynamaker-guide" class="anchor"></span>dynamaker-guide<a class="fa fa-anchor" href="#dynamaker-guide" onclick="event.stopPropagation()"></a></h1>
+        <p><b>Dynamix Fanmade Chart Tutorial using Dynamaker, for Dynamite</b></p>
+        <h3 id="please-click-the-link-below-to-get-to-the-new-updated-guide-that-is-on-an-actual-website"><span id="please-click-the-link-below-to-get-to-the-new-updated-guide-that-is-on-an-actual-website" class="anchor"></span>Please click the link below to get to the new updated guide that is on an actual website. <a class="fa fa-anchor" href="#please-click-the-link-below-to-get-to-the-new-updated-guide-that-is-on-an-actual-website" onclick="event.stopPropagation()"></a></h3>
+        <p>The New Updated Guide is <a href="https://tlchicken.github.io/dynamaker-guide/"><b><span style="font-size:150%;">HERE</span></b></a>.</p>
+        <br>
+        <br>
+        <br>
+        <h1 id="old-guide"><span id="old-guide" class="anchor"></span>OLD GUIDE:<a class="fa fa-anchor" href="#old-guide" onclick="event.stopPropagation()"></a></h1>
+        <p>This repo contains a short guide for OmegaPi's DynaMaker Chart Editor. (originally called Dynaremix)
+          Dynamaker is a fan-made Dynamix Chart Editor tool that is a god-send because it gives random people like us the ability to create and play Dynamix charts which is almost impossible to do otherwise without prior related programming knowledge. The charts created can be uploaded onto Dynamite for testing.</p>
+        <p>This tool has many controls and features, although there are no clear instructions on how to use it on the page itself, it can get quite familiar and easy to use the more you use it. This unofficial guide aims to help you to familiarise yourself with Dynamaker's features and controls.</p>
+        <p>I had mostly written 1 year ago on 7 June 2019 for one of my friends, but I updated it slightly so the wall of text is more readable, the original wall of text made last year can still be accessed in the <a href="/Contents/Old%20Guide%20v1.0.txt">relevant document</a>.</p>
+        <h2 id="contents"><span id="contents" class="anchor"></span>Contents:<a class="fa fa-anchor" href="#contents" onclick="event.stopPropagation()"></a></h2>
+        <p><strong><a href="/OLDContents/Getting%20Started.html">Getting Started</a></strong></p>
+        <p><strong><a href="/OLDContents/Controls%20Nav.html">Controls - Navigation and Charting</a></strong></p>
+        <p><strong><a href="/OLDContents/Placing%20Notes.html">Placing Notes</a></strong></p>
+        <p><strong><a href="/OLDContents/Special%20Controls.html">Special Controls</a></strong></p>
+        <p><strong><a href="/OLDContents/Placing%20Notes.md/#Troubleshooting">Troubleshooting</a></strong> (Scroll Down a bit more because of the images)</p>
+        <h3 id="other-things"><span id="other-things" class="anchor"></span>Other Things:<a class="fa fa-anchor" href="#other-things" onclick="event.stopPropagation()"></a></h3>
+        <p><strong><a href="/OLDContents/Controls%20Nav.md/#edit_mode">EDIT Mode</a></strong></p>
+        <p><strong><a href="/OLDContents/Placing%20Notes.md/#niche">Meaning of Numbers around your Note</a></strong></p>
+        <p><strong><a href="/OLDContents/Controls%20Nav.md/#random_stuff">Meaning of the Moving Lines around your Note</a></strong></p>
+        <p><strong><a href="/OLDContents/Special%20Controls.md/#BPM">BPM Change</a></strong></p>
+        <p>Thank you.
+          <i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i>
+        </p>
+      </div>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.18.1</a>]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/dynamaker-guide'
+  MarkBind.setupWithSearch()
+</script>
+<script src="markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>

@@ -30,6 +30,11 @@
       <navbar type="dark" class="temp-navbar">
         <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand"><img src="/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png" class="logo"></a>
         <li><a href="/dynamaker-guide/mainPg.html" class="nav-link DynamixTxtContainer">Contents</a></li>
+        <div class="nav-link DynamixTxtContainer temp-dropdown-placeholder">Dynamaker Links</div>
+        <dropdown class="nav-link DynamixTxtContainer temp-dropdown"><template slot="_header">Dynamaker Links</template>
+          <li><a href="https://dynamaker.tunergames.com/" class="dropdown-item DynamixTxtContainer">Dynamaker Website</a></li>
+          <li><a href="https://github.com/jmakxd/dynamaker-modified/releases" class="dropdown-item DynamixTxtContainer">Dynamaker EXE Version</a></li>
+        </dropdown>
         <li slot="right">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -87,33 +92,40 @@
         <link rel="stylesheet" href="/dynamaker-guide/generalStyle.css">
         <h1 id="basic-controls"><span id="basic-controls" class="anchor"></span>Basic Controls<a class="fa fa-anchor" href="#basic-controls" onclick="event.stopPropagation()"></a></h1>
         <h2 id="navigation"><span id="navigation" class="anchor"></span>Navigation<a class="fa fa-anchor" href="#navigation" onclick="event.stopPropagation()"></a></h2>
-        <p>Keyboard:</p>
+        <br>
         <p><strong><kbd>A</kbd> / <kbd>D</kbd> / Scroll Wheel</strong> : Move Forwards / Backwards in song by 1 second. (The chart scrolls up or down.)</p>
         <p><strong><kbd>Shift</kbd> + <kbd>A</kbd> / <kbd>Shift</kbd> + <kbd>D</kbd></strong> : Move Forwards / Backwards in song by 0.01 seconds.</p>
-        <p><strong><kbd>Q</kbd> / <kbd>E</kbd></strong> : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed. However, Dynamaker uses a different speed scale than Dynamix. Use 1.4x speed if you want to have a similar speed as 1.0x in Dynamix.)</p>
+        <p><strong><kbd>Q</kbd> / <kbd>E</kbd></strong> : Sets speed at which notes come down (equivalent to slider in the actual game that comes up when starting a song that sets the note speed.)
+          -However, Dynamaker uses a different speed scale than Dynamix. Use 1.4x speed if you want to have a similar speed as 1.0x in Dynamix.</p>
         <p><strong><kbd>W</kbd> / <kbd>S</kbd></strong> : Sets speed of song.</p>
         <ul>
           <li>Default speed is 1.0 Speed</li>
           <li>Set it slower to make it easier to set the song's offset or align notes to the rhythm more easily.</li>
         </ul>
-        <p><em>BUG in dynaremixv3: Do not press S anymore when speed is 0.1 or it could become 0.0 and crash the chart maker.</em>
-          <em>If you encounter the bug and want to recover your chart, follow the steps in the Troubleshooting section here: <a href="/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting">Troubleshooting</a></em>
-        </p>
+        <box type="important">
+          <i>BUG in dynaremixv3 (Fixed in Web and EXE Version): Do not press <kbd>S</kbd> anymore when speed is 0.1 or it could become 0.0 and crash the chart maker.</i>
+          <i>If you encounter the bug and want to recover your chart, follow the steps in the Troubleshooting section here: <a href="/dynamaker-guide/Contents/Placing%20Notes.html#Troubleshooting">Troubleshooting</a></i>
+        </box>
         <p><strong><kbd>O</kbd> / <kbd>P</kbd></strong> : Adjusts the offset of the song. <kbd>O</kbd> causes notes to come down later than before, and vice versa for <kbd>P</kbd>.</p>
         <p><strong><kbd>Enter</kbd></strong> : Goes into Play Mode and the song is played from the start with auto-play on, with Scores and Combo displayed.</p>
         <p><strong><kbd>R</kbd> / <kbd>M</kbd></strong> : Go to the beginning of the chart and plays it. (No Scores and Combo displayed.)</p>
         <p><strong><kbd>Space</kbd></strong> : Play / Pauses the song.</p>
         <h2 id="charting"><span id="charting" class="anchor"></span>Charting<a class="fa fa-anchor" href="#charting" onclick="event.stopPropagation()"></a></h2>
         <h3 id="mouse"><span id="mouse" class="anchor"></span>Mouse:<a class="fa fa-anchor" href="#mouse" onclick="event.stopPropagation()"></a></h3>
-        <p><strong>Left Click</strong>: When in placing down notes mode (Press <strong><kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd></strong> on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)</p>
+        <p><strong>Left Click</strong>: When not in Edit mode (Press <strong><kbd>1</kbd> / <kbd>2</kbd> / <kbd>3</kbd></strong> on top of keyboard) it will place down a note when you release your left click after clicking down. While holding down left click you can move the mouse left and right to adjust the size of the note. (Left for smaller, Right for bigger note.)</p>
         <p><strong>Right Click</strong> : Opens the <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><s>Right Click Menu</s></a>. (Right Click Menu Section To be Added.)</p>
         <h3 id="keyboard"><span id="keyboard" class="anchor"></span>Keyboard:<a class="fa fa-anchor" href="#keyboard" onclick="event.stopPropagation()"></a></h3>
         <p><strong><kbd>↓</kbd> / <kbd>←</kbd> / <kbd>→</kbd></strong> : Turns on/off the note guidelines for the respective sides.</p>
-        <ul>
-          <li>Press once to have it 50% transparent.</li>
-          <li>Press second time to make it opaque.</li>
-          <li>Press third time to turn off.</li>
-        </ul>
+        <panel type="info" minimized><template slot="header">
+            <p>Activation sequence when pressing arrow keys: (For non-EXE version only)</p>
+          </template><template slot="_alt">
+            <p>Activation Sequence</p>
+          </template>
+          <li> Press once to have it 50% transparent. </li>
+          <li> Press second time to make it opaque. </li>
+          <li> Press third time to turn off. </li>
+        </panel>
+        <br>
         <p><kbd>↑</kbd> : Switches the Active Side in the order of:</p>
         <pre><code v-pre>Main Side (Down) → Left Side → Right Side
 </code></pre>
@@ -146,13 +158,15 @@
         <p><strong><kbd>4</kbd></strong> : Go into <strong>Edit</strong> Mode</p>
         <h1 id="edit_mode"><span id="edit_mode" class="anchor"></span>EDIT Mode<a class="fa fa-anchor" href="#edit_mode" onclick="event.stopPropagation()"></a></h1>
         <p>When you mouse over or near a note there will be a <strong>White Square</strong> on the middle of the note. Double click to select it and place it somewhere else.</p>
-        <p>You can select several notes at once by dragging left click such that the box formed overlays the notes.</p>
+        <p>You can select several notes to be deleted at once by dragging left click such that the box formed overlays the notes. Then right click and choose the &quot;Delete&quot; option.</p>
         <p>(Only notes in the current side that you are editing (The <strong>Active Side</strong>) will be selected. i.e. When editing left side and you draw a box in a area with both left and main side notes you are actually only selecting the notes that are on the left side. When you press <strong><kbd>Del</kbd></strong> only the left side notes in the white box will be deleted.)
           After selecting those notes you can right click to <strong>Delete</strong> or copy them. ( <em>You can only copy the notes. You can't paste them as there is no paste function. :thynk:</em> )</p>
         <p><strong><kbd>Del</kbd></strong> : You can press this in <strong>Edit Mode</strong> after dragging left click to select notes, to delete those notes.</p>
         <p><strong><kbd>H</kbd></strong> : Hold down to bring up some Help text which describes some controls available at the bottom of the screen.</p>
         <h2 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h2>
-        <p><strong><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></strong></p>
+        <p><strong><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></strong>
+          <span class="badge badge-danger">★★★</span>
+        </p>
         <h1 id="random_stuff"><span id="random_stuff" class="anchor"></span>Things around the Note you are holding:<a class="fa fa-anchor" href="#random_stuff" onclick="event.stopPropagation()"></a></h1>
         <p><strong>White Line</strong> : Graphically shows the column that your note will be placed in if you left click. This can be used to help you align your notes.</p>
         <p><strong>Blue/Red/Yellow Line</strong> : Graphically shows the row (Timing) that your note will be placed in if you left click. This helps you to align your notes in terms of timing. For example, if you are placing down notes on the Right side, there would also be such a line on the opposite side for you to help you to compare the timing of the notes on the right and the left side.</p>
@@ -162,15 +176,15 @@
         </ul>
         <p><strong>Confusing Numbers Around the Note</strong> : See Niche Stuff Section in <a href="/dynamaker-guide/Contents/Placing%20Notes.html#niche">Placing Notes</a>.</p>
         <p><strong>Multi-Colour Squares at the Centre of some Notes</strong>: See Multi-Colour Squares Section in <a href="/dynamaker-guide/Contents/Placing%20Notes.html#multi-colour">Placing Notes</a>.</p>
-        <p><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a></p>
+        <p><strong><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a></strong></p>
         <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
     </div>
     <footer>
 
       <div class="text-center">
-        <center>Guide created by TLChicken</center>
-        <center>Dynamaker created by OmegaPi</center>
+        <div style="text-align: center;">Guide created by TLChicken</div>
+        <div style="text-align: center;">Dynamaker created by OmegaPi</div>
         <small>[Generated by <a href="https://markbind.org/">MarkBind 2.18.1</a>]</small>
       </div>
     </footer>

@@ -30,6 +30,11 @@
       <navbar type="dark" class="temp-navbar">
         <a slot="brand" href="/dynamaker-guide/index.html" title="Dynamaker Guide" class="navbar-brand"><img src="/dynamaker-guide/Contents/Images/Dynamaker%20Guide%20Logo.png" class="logo"></a>
         <li><a href="/dynamaker-guide/mainPg.html" class="nav-link DynamixTxtContainer">Contents</a></li>
+        <div class="nav-link DynamixTxtContainer temp-dropdown-placeholder">Dynamaker Links</div>
+        <dropdown class="nav-link DynamixTxtContainer temp-dropdown"><template slot="_header">Dynamaker Links</template>
+          <li><a href="https://dynamaker.tunergames.com/" class="dropdown-item DynamixTxtContainer">Dynamaker Website</a></li>
+          <li><a href="https://github.com/jmakxd/dynamaker-modified/releases" class="dropdown-item DynamixTxtContainer">Dynamaker EXE Version</a></li>
+        </dropdown>
         <li slot="right">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -85,6 +90,7 @@
 
       <div id="content-wrapper">
         <link rel="stylesheet" href="/dynamaker-guide/generalStyle.css">
+        <p><span class="badge badge-danger">★★★</span></p>
         <h1 id="getting-started"><span id="getting-started" class="anchor"></span>Getting Started<a class="fa fa-anchor" href="#getting-started" onclick="event.stopPropagation()"></a></h1>
         <p>Website Link: <a href="https://dynamaker.tunergames.com/">https://dynamaker.tunergames.com/</a></p>
         <h5 id="welcome-to-the-unofficial-dynamaker-guide"><span id="welcome-to-the-unofficial-dynamaker-guide" class="anchor"></span>Welcome to the unofficial Dynamaker Guide!<a class="fa fa-anchor" href="#welcome-to-the-unofficial-dynamaker-guide" onclick="event.stopPropagation()"></a></h5>
@@ -92,55 +98,133 @@
         <h2 id="step-1-getting-the-editor-to-fit-your-screen"><span id="step-1-getting-the-editor-to-fit-your-screen" class="anchor"></span>Step 1: Getting the Editor to fit your screen.<a class="fa fa-anchor" href="#step-1-getting-the-editor-to-fit-your-screen" onclick="event.stopPropagation()"></a></h2>
         <p>Use <em>Google Chrome</em> to visit the website.
           Press <kbd>F</kbd> to go into Full-Screen mode. (Might have to press <kbd>F11</kbd> as well so that everything is aligned.)</p>
-        <p><strong>If the website does not fit your screen:</strong></p>
-        <p>Set the <strong>Zoom</strong> of the website to 100%.</p>
-        <ul>
-          <li>(Setting is in the Chrome Dropdown menu at the top right, below the X close window button.)
-            If it still does not fit, try other zoom values like 80%.</li>
-        </ul>
+        <panel type="danger" minimized><template slot="header">
+            <p><strong>If the website does not fit your screen:</strong></p>
+          </template><template slot="_alt">
+            <p>Click here if you have window sizing issues.</p>
+          </template>
+          <p>Set the <b>Zoom</b> of the website to 100%.</p>
+          <p>(Setting is in the Chrome Dropdown menu at the top right, below the X close window button.)
+            If it still does not fit, try other zoom values like 80%. </p>
+        </panel>
+        <br>
+        <br>
         <h2 id="step-2-load-your-music-and-map-files"><span id="step-2-load-your-music-and-map-files" class="anchor"></span>Step 2: Load your music (and map) files<a class="fa fa-anchor" href="#step-2-load-your-music-and-map-files" onclick="event.stopPropagation()"></a></h2>
-        <p>If you are creating a new map, only load the music file, then press <strong>New Map</strong>.
-          - Press <em>Audio/Video Browse</em> to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing even if your mouse pointer appears to be pointing at the button.</p>
-        <p>If you are editing an existing map, load both the map file and audio file.</p>
+        <panel minimized><template slot="header">
+            <p>If you are creating a new map, only load the music file, then press <strong>New Map</strong>.</p>
+          </template>
+          <tip-box type="warning">
+            <p>Press <i>Audio/Video Browse</i> to load, when the button is moused over, it will turn green, if it stays blue it means you are clicking nothing even if your mouse pointer appears to be pointing at the button. </p>
+          </tip-box>
+          <panel type="danger" minimized><template slot="header">
+              <p>If you still cannot click the button... (See here if the button always stays blue.)</p>
+            </template>
+            <p>Click slightly below the buttons. If it still does not work, please use the EXE version of Dynamaker
+              <a href="https://github.com/jmakxd/dynamaker-modified/releases">found here</a>
+              instead as this bug as been fixed there.
+            </p>
+          </panel>
+        </panel>
+        <br>
+        If you are editing an existing map, load both the map file and audio file.
         <h2 id="step-3-new-map-setup"><span id="step-3-new-map-setup" class="anchor"></span>Step 3: New Map Setup<a class="fa fa-anchor" href="#step-3-new-map-setup" onclick="event.stopPropagation()"></a></h2>
-        <p>Find the BPM of the song from other sources (eg Osu!), then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the <strong><kbd>O</kbd></strong> and <strong><kbd>P</kbd></strong> keys.</p>
-        <ul>
-          <li>Beat Per Minute is the BPM of the song.</li>
+        <p>Find the BPM of the song from other sources (eg Osu!), then enter it in the Beat Per Minute or Bar Per Minute box. Then enter the offset if you know what offset it has, else leave it as 0. You can set the offset again later while editing the chart using the <strong><kbd>O</kbd></strong> and <strong><kbd>P</kbd></strong> keys.</p>
+        <box type="info">
+          <p>Entering the BPM of the song: <b>(Please check which box is present in your version of Dynamaker and enter accordingly.)</b></p>
+          <li>Beat Per Minute is the BPM of the song. </li>
           <li>Bars Per Minute is the BPM divided by the Time signature of the song (Number of Beats in 1 Bar)</li>
-        </ul>
-        <h5 id="left-side-and-right-side-settings"><span id="left-side-and-right-side-settings" class="anchor"></span>Left Side and Right Side Settings:<a class="fa fa-anchor" href="#left-side-and-right-side-settings" onclick="event.stopPropagation()"></a></h5>
-        <ul>
-          <li>MIXER: Side has Sliding Bar and can only contain Slide Notes</li>
-          <li>PAD: Side can only contain Tap and Hold Notes</li>
-          <li>MULTI: Side can contain all 3 types of notes. (This type of side cannot be found in Dynamix)</li>
-        </ul>
+          <li>Numbers entered can contain a decimal point.</li>
+        </box>
+        <panel type="info" minimized><template slot="header">
+            <p>Additional Information about the Create Map Menu</p>
+          </template><template slot="_alt">
+            <p>Create Map Menu - Additional Information</p>
+          </template>
+          <box>
+            <h5 style="font-family: Dynamix" id="music-name"><span id="music-name" class="anchor"></span>Music Name<a class="fa fa-anchor" href="#music-name" onclick="event.stopPropagation()"></a></h5>
+            Enter the name of the song. It will display at the bottom left hand corner of the screen when playing the map.
+          </box>
+          <box>
+            <h5 style="font-family: Dynamix" id="difficulty"><span id="difficulty" class="anchor"></span>Difficulty<a class="fa fa-anchor" href="#difficulty" onclick="event.stopPropagation()"></a></h5>
+            Choose the appropriate difficulty that you intend to chart using the dropdown menu.
+            <div>
+              Available Difficulties:
+              <h3 id="casual-normal-hard-mega-giga"><span id="casual-normal-hard-mega-giga" class="anchor"></span>
+                <p><span class="badge casual-color DynamixTxtContainer" style="color: #FFFFFF">Casual</span></p>
+                <p><span class="badge normal-color DynamixTxtContainer" style="color: #FFFFFF">Normal</span></p>
+                <p><span class="badge hard-color DynamixTxtContainer" style="color: #FFFFFF">Hard</span></p>
+                <p><span class="badge mega-color DynamixTxtContainer" style="color: #FFFFFF">Mega</span></p>
+                <p><span class="badge giga-color DynamixTxtContainer" style="color: #FFFFFF">Giga</span></p><a class="fa fa-anchor" href="#casual-normal-hard-mega-giga" onclick="event.stopPropagation()"></a>
+              </h3>
+            </div>
+            <panel minimized><template slot="header">
+                <p>Additional Difficulties</p>
+              </template>
+              <box type="info">
+                <p style="font-family: Dynamix">Custom / None</p>
+                There will be no difficulty graphic shown at the bottom left corner of the screen if this is chosen.
+              </box>
+              <box type="warning">
+                <p style="font-family: Dynamix">HORNEEE - Only available in EXE Version</p>
+                <h3 id="horneee"><span id="horneee" class="anchor"></span>
+                  <span class="badge horneee-color DynamixTxtContainer" style="color: #FFFFFF">Horneee</span><a class="fa fa-anchor" href="#horneee" onclick="event.stopPropagation()"></a>
+                </h3>
+                This difficulty is used for meme/insane/funny charts, as a reference to Homeee, Dynamix's Official Charter.
+              </box>
+            </panel>
+          </box>
+          <box>
+            <h5 style="font-family: Dynamix" id="left-side-and-right-side"><span id="left-side-and-right-side" class="anchor"></span>Left Side and Right Side<a class="fa fa-anchor" href="#left-side-and-right-side" onclick="event.stopPropagation()"></a></h5>
+            <li> <span class="DynamixTxtContainer">MIXER:</span> Side has Sliding Bar and can only contain Chain Notes </li>
+            <li> <span class="DynamixTxtContainer">PAD:</span> Side can only contain Tap and Hold Notes </li>
+            <li> <span class="DynamixTxtContainer">MULTI:</span> Side can contain all 3 types of notes. (This type of side cannot be found in Dynamix) </li>
+          </box>
+          <box>
+            <h5 style="font-family: Dynamix" id="offset"><span id="offset" class="anchor"></span>Offset<a class="fa fa-anchor" href="#offset" onclick="event.stopPropagation()"></a></h5>
+            <li> Use either <span class="DynamixTxtContainer">OFFSET [sec]</span> or <span class="DynamixTxtContainer">OFFSET [bar]</span> and not both, if both are available.</li>
+            <li>You can change the offset again later while editing using <kbd>O</kbd> or <kbd>P</kbd>.</li>
+          </box>
+        </panel>
+        <br>
         <h2 id="step-4-create-map"><span id="step-4-create-map" class="anchor"></span>Step 4: Create Map<a class="fa fa-anchor" href="#step-4-create-map" onclick="event.stopPropagation()"></a></h2>
         <p>Press the Start button.
           Change the offset of your song by using the <strong><kbd>O</kbd></strong> and <strong><kbd>P</kbd></strong> buttons.
           <strong><kbd>O</kbd></strong> makes notes come later.
           <strong><kbd>P</kbd></strong> makes notes come earlier.
         </p>
-        <h1 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h1>
-        <p><strong><a href="/dynamaker-guide/Contents/Controls%20Nav.html">Controls - Navigation and Charting</a></strong></p>
-        <p><strong><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></strong></p>
+        <h2 id="next"><span id="next" class="anchor"></span>Next:<a class="fa fa-anchor" href="#next" onclick="event.stopPropagation()"></a></h2>
+        <p><strong><a href="/dynamaker-guide/Contents/Controls%20Nav.html">Controls - Navigation and Charting</a></strong>
+          <span class="badge badge-warning" style="color: #FFFFFF">★★</span>
+        </p>
+        <p><strong><a href="/dynamaker-guide/Contents/Placing%20Notes.html">Placing Notes</a></strong>
+          <span class="badge badge-danger">★★★</span>
+        </p>
         <h2 id="to-save-your-chart"><span id="to-save-your-chart" class="anchor"></span>TO SAVE YOUR CHART<a class="fa fa-anchor" href="#to-save-your-chart" onclick="event.stopPropagation()"></a></h2>
         <ol>
           <li>Right Click</li>
           <li>Click Save as XML to only save the chart file.</li>
           <li>Next time when opening DynaMaker, load both the XML map file and the song file.</li>
         </ol>
-        <p>Alternatively you can click Save as .DY to save as a format which contains both the map and the song. (File Size is bigger!!)
-          When you save it in this form, the next time you open DynaMaker you only need to load the .dy file as it contains both the map and song. However if you save too many .dy files it will take up a lot of space.</p>
-        <p>.dy files can also be loaded into the DynaMaker website on your phone to play the chart using DynaMaker's in-built touchscreen interactive chart player. (Personally I couldn't get it to load on some of my devices as the screen and webpage are misaligned. I tried a few devices but I could get it to work consistently only on a iPhone 7 running iOS 10 though.) This is an alternative way to test your chart if you do not want to upload your chart on to Dynamite.</p>
-        <p><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a></p>
+        <panel minimized><template slot="header">
+            <p>About .DY files and what they do.</p>
+          </template><template slot="_alt">
+            <p>About .DY Files</p>
+          </template>
+          <span class="badge badge-info">Hint</span>
+          <p>Alternatively you can click Save as .DY to save as a format which contains both the map and the song. (File Size is bigger!!)
+            When you save it in this form, the next time you open DynaMaker you only need to load the .dy file as it contains both the map and song. However if you save too many .dy files it will take up a lot of space.</p>
+          <p>.dy files can also be loaded into the DynaMaker website on your phone to play the chart using DynaMaker's in-built touchscreen interactive chart player. (Personally I couldn't get it to load on some of my devices as the screen and webpage are misaligned. I tried a few devices but I could get it to work consistently only on a iPhone 7 running iOS 10 though.) This is an alternative way to test your chart if you do not want to upload your chart on to Dynamite.</p>
+        </panel>
+        <p><br><br></p>
+        <p><strong><a href="/dynamaker-guide/mainPg.html">Back to Main Page</a></strong></p>
         <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
     </div>
     <footer>
 
       <div class="text-center">
-        <center>Guide created by TLChicken</center>
-        <center>Dynamaker created by OmegaPi</center>
+        <div style="text-align: center;">Guide created by TLChicken</div>
+        <div style="text-align: center;">Dynamaker created by OmegaPi</div>
         <small>[Generated by <a href="https://markbind.org/">MarkBind 2.18.1</a>]</small>
       </div>
     </footer>

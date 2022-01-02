@@ -39,7 +39,7 @@
         "confusing-numbers-around-the-notes": "Confusing Numbers around the Notes",
         "multi-colour": "Multi-colour Squares at middle of notes and what it represents:",
         "unknown-squares": "Unknown Squares:",
-        "hints": "HINTS:",
+        "hyints": "HYINTS:",
         "Troubleshooting": "Troubleshooting"
       },
       "headingKeywords": {}
@@ -51,6 +51,7 @@
         "controls-you-might-have-never-knew-about": "Controls you might have never knew about:",
         "undo-and-redo-save-xml-before-using-might-crash-dynamaker": " Undo & Redo - SAVE XML BEFORE USING - MIGHT CRASH DYNAMAKER ",
         "niche-controls": "Niche Controls",
+        "confusing-until-you-try-it-out": "Confusing until you Try It Out.",
         "other-controls": "Other Controls",
         "only-in-dynaremix-an-older-version-of-dynamaker-the-other-dynaremixv3-version": "Only in Dynaremix (An older Version of Dynamaker / The other dynaremixv3 Version)",
         "BPM": "BPM Change",
@@ -67,7 +68,11 @@
         "basic-controls": "Basic Controls",
         "navigation": "Navigation",
         "charting": "Charting",
-        "what-do-the-random-stuff-around-your-note-mean-when-in-placing-down-notes-mode": "What do the random stuff around your note mean when in placing down notes mode:"
+        "mouse": "Mouse:",
+        "keyboard": "Keyboard:",
+        "edit_mode": "EDIT Mode",
+        "next": "Next:",
+        "random_stuff": "What do the Random Stuff around your Note mean:"
       },
       "headingKeywords": {}
     },
@@ -80,6 +85,7 @@
         "step-2-load-your-music-and-map-files": "Step 2: Load your music (and map) files",
         "step-3-new-map-setup": "Step 3: New Map Setup",
         "step-4-create-map": "Step 4: Create Map",
+        "next": "Next:",
         "to-save-your-chart": "TO SAVE YOUR CHART"
       },
       "headingKeywords": {}
@@ -89,9 +95,12 @@
       "title": "",
       "headings": {
         "placing-down-some-notes": "Placing Down Some Notes!",
-        "niche-stuff-section": "Niche Stuff Section",
+        "niche": "Niche Stuff Section",
         "confusing-numbers-around-the-notes": "Confusing Numbers around the Notes",
-        "multi-color-squares-at-middle-of-notes-and-what-it-represents": "Multi-color Squares at middle of notes and what it represents:"
+        "multi-colour": "Multi-colour Squares at middle of notes and what it represents:",
+        "unknown-squares": "Unknown Squares:",
+        "hyints": "HYINTS:",
+        "troubleshooting": "Troubleshooting"
       },
       "headingKeywords": {}
     },
@@ -99,8 +108,16 @@
       "src": "OLDContents/Special Controls.md",
       "title": "",
       "headings": {
+        "other-controls-you-never-knew": "Other Controls you never knew",
+        "useful-undo-and-amp-redo-save-xml-before-using-might-crash-dynamaker": "USEFUL - Undo &amp; Redo - SAVE XML BEFORE USING - MIGHT CRASH DYNAMAKER",
         "niche-controls": "Niche Controls",
-        "confusing-until-you-try-it-out": "Confusing until you try it out."
+        "confusing-until-you-try-it-out": "Confusing until you Try It Out.",
+        "other-controls": "Other Controls",
+        "only-in-dynaremix-an-older-version-of-dynamaker-the-other-dynaremixv3-version": "Only in Dynaremix (An older Version of Dynamaker / The other dynaremixv3 Version)",
+        "BPM": "BPM Change",
+        "to-access-bpm-change-mode": "To access BPM Change Mode",
+        "placing-down-bpm-change-object": "Placing down BPM Change Object",
+        "how-to-use-properly": "How to use properly:"
       },
       "headingKeywords": {}
     },
